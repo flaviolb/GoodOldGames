@@ -1,0 +1,3212 @@
+<?xml version="1.0"?>
+<menu>
+	<header>
+		<listname>Super Nintendo Entertainment System</listname>
+		<lastlistupdate>31/03/2016</lastlistupdate>
+		<listversion>alfa</listversion>
+		<exporterversion>Hyper</exporterversion>
+	</header>
+
+	<game name="7th Saga, The" index="true" image="7">
+		<description>7th Saga, The</description>
+		<cloneof></cloneof>
+		<crc>b3abdde6</crc>
+		<manufacturer>Enix America Inc.</manufacturer>
+		<year>1993</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+	<game name="Aero the Acro-Bat 2" index="" image="">
+		<description>Aero the Acro-Bat 2</description>
+		<cloneof></cloneof>
+		<crc>8c05ed51</crc>
+		<manufacturer>Sun Soft</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+	<game name="Aladdin" index="" image="">
+		<description>Aladdin</description>
+		<cloneof></cloneof>
+		<crc>124d8e4d</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+	<game name="Alien 3" index="" image="">
+		<description>Alien 3</description>
+		<cloneof></cloneof>
+		<crc>98e2ac15</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+	<game name="Alien vs. Predator" index="" image="">
+		<description>Alien vs. Predator</description>
+		<cloneof></cloneof>
+		<crc>1803cf20</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Animaniacs" index="" image="">
+		<description>Animaniacs</description>
+		<cloneof></cloneof>
+		<crc>cf0f14d2</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+	<game name="Arcana" index="" image="">
+		<description>Arcana</description>
+		<cloneof></cloneof>
+		<crc>c891b297</crc>
+		<manufacturer>Hal</manufacturer>
+		<year>1992</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+	<game name="Art of Fighting" index="" image="">
+		<description>Art of Fighting</description>
+		<cloneof></cloneof>
+		<crc>9fa74067</crc>
+		<manufacturer>SNK</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Axelay" index="" image="">
+		<description>Axelay</description>
+		<cloneof></cloneof>
+		<crc>f812b533</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+	<game name="B.O.B." index="true" image="b">
+		<description>B.O.B.</description>
+		<cloneof></cloneof>
+		<crc>4f593c46</crc>
+		<manufacturer>Electronic Arts</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+	<game name="Batman Returns" index="" image="">
+		<description>Batman Returns</description>
+		<cloneof></cloneof>
+		<crc>e87dfdf6</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+	<game name="Battle Cars" index="" image="">
+		<description>Battle Cars</description>
+		<cloneof></cloneof>
+		<crc>46043454</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+	<game name="Battletoads in Battlemaniacs" index="" image="">
+		<description>Battletoads in Battlemaniacs</description>
+		<cloneof></cloneof>
+		<crc>617ac925</crc>
+		<manufacturer>Tradewest</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+	<game name="Beavis and Butt-Head" index="" image="">
+		<description>Beavis and Butt-Head</description>
+		<cloneof></cloneof>
+		<crc>15cf4bd5</crc>
+		<manufacturer>Viacom New Media</manufacturer>
+		<year>1994</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Big Sky Trooper" index="" image="">
+		<description>Big Sky Trooper</description>
+		<cloneof></cloneof>
+		<crc>25c69316</crc>
+		<manufacturer>JVC Musical Industries, Inc.</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Biker Mice from Mars" index="" image="">
+		<description>Biker Mice from Mars</description>
+		<cloneof></cloneof>
+		<crc>4e8b2ecb</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1994</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="BioMetal" index="" image="">
+		<description>BioMetal</description>
+		<cloneof></cloneof>
+		<crc>53d8410e</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1993</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Blues Brothers, The" index="" image="">
+		<description>Blues Brothers, The</description>
+		<cloneof></cloneof>
+		<crc>82b97464</crc>
+		<manufacturer>Titus Software</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Bobby&apos;s World" index="" image="">
+		<description>Bobby&apos;s World</description>
+		<cloneof></cloneof>
+		<crc>18bbee33</crc>
+		<manufacturer>Hi Tech Expressions</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Bonkers" index="" image="">
+		<description>Bonkers</description>
+		<cloneof></cloneof>
+		<crc>597aa981</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Boogerman" index="" image="">
+		<description>Boogerman</description>
+		<cloneof></cloneof>
+		<crc>1899aaff</crc>
+		<manufacturer>Interplay</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Brain Lord" index="" image="">
+		<description>Brain Lord</description>
+		<cloneof></cloneof>
+		<crc>ac443d87</crc>
+		<manufacturer>Enix</manufacturer>
+		<year>1994</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Breath of Fire" index="" image="">
+		<description>Breath of Fire</description>
+		<cloneof></cloneof>
+		<crc>c788b696</crc>
+		<manufacturer>SquareSoft</manufacturer>
+		<year>1994</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+
+	<game name="Breath of Fire II" index="" image="">
+		<description>Breath of Fire II</description>
+		<cloneof></cloneof>
+		<crc>67cdacc5</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1995</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Cannon Fodder" index="" image="">
+		<description>Cannon Fodder</description>
+		<cloneof></cloneof>
+		<crc>f3b5cbb1</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1994</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Captain America and the Avengers" index="" image="">
+		<description>Captain America and the Avengers</description>
+		<cloneof></cloneof>
+		<crc>456ab5c8</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Casper" index="" image="">
+		<description>Casper</description>
+		<cloneof></cloneof>
+		<crc>a3b745bc</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>1996</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Castlevania - Dracula X" index="" image="">
+		<description>Castlevania - Dracula X</description>
+		<cloneof></cloneof>
+		<crc>7c4887e1</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Chrono Trigger" index="" image="">
+		<description>Chrono Trigger</description>
+		<cloneof></cloneof>
+		<crc>2d206bf7</crc>
+		<manufacturer>Squaresoft</manufacturer>
+		<year>1995</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Civilization" index="" image="">
+		<description>Civilization</description>
+		<cloneof></cloneof>
+		<crc>41fdba82</crc>
+		<manufacturer>Microprose</manufacturer>
+		<year>1994</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Clay Fighter" index="" image="">
+		<description>Clay Fighter</description>
+		<cloneof></cloneof>
+		<crc>c814e3c2</crc>
+		<manufacturer>Interplay</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Contra III - The Alien Wars" index="" image="">
+		<description>Contra III - The Alien Wars</description>
+		<cloneof></cloneof>
+		<crc>84da7cfe</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Cool Spot" index="" image="">
+		<description>Cool Spot</description>
+		<cloneof></cloneof>
+		<crc>44e60e58</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Cutthroat Island" index="" image="">
+		<description>Cutthroat Island</description>
+		<cloneof></cloneof>
+		<crc>19ea457b</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Cybernator" index="" image="">
+		<description>Cybernator</description>
+		<cloneof></cloneof>
+		<crc>4dfa05b3</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Cyborg 009" index="" image="">
+		<description>Cyborg 009</description>
+		<cloneof></cloneof>
+		<crc>XXXXXXXX</crc>
+		<manufacturer>XXXX</manufacturer>
+		<year>199X</year>
+		<genre>XXXX</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Daffy Duck - The Marvin Missions" index="" image="">
+		<description>Daffy Duck - The Marvin Missions</description>
+		<cloneof></cloneof>
+		<crc>5f02a044</crc>
+		<manufacturer>Sun Soft</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Darius Twin" index="" image="">
+		<description>Darius Twin</description>
+		<cloneof></cloneof>
+		<crc>c5341764</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+
+	<game name="Death and Return of Superman, The" index="" image="">
+		<description>Death and Return of Superman, The</description>
+		<cloneof></cloneof>
+		<crc>a567957c</crc>
+		<manufacturer>Sun Soft</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Donkey Kong Country" index="" image="">
+		<description>Donkey Kong Country</description>
+		<cloneof></cloneof>
+		<crc>0e204fbd</crc>
+		<manufacturer>Rare</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+
+	<game name="Donkey Kong Country 2 - Diddy&apos;s Kong Quest" index="" image="">
+		<description>Donkey Kong Country 2 - Diddy&apos;s Kong Quest</description>
+		<cloneof></cloneof>
+		<crc>4e2d90f4</crc>
+		<manufacturer>Rare</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+
+	<game name="Donkey Kong Country 3 - Dixie Kong&apos;s Double Trouble!" index="" image="">
+		<description>Donkey Kong Country 3 - Dixie Kong&apos;s Double Trouble!</description>
+		<cloneof></cloneof>
+		<crc>448eec19</crc>
+		<manufacturer>Rare</manufacturer>
+		<year>1996</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+
+	<game name="Doom" index="" image="">
+		<description>Doom</description>
+		<cloneof></cloneof>
+		<crc>09e85ea6</crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1996</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+
+	<game name="Doom Troopers" index="" image="">
+		<description>Doom Troopers</description>
+		<cloneof></cloneof>
+		<crc>1889feef</crc>
+		<manufacturer>Playmates</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+	<game name="Dragon - The Bruce Lee Story" index="" image="">
+		<description>Dragon - The Bruce Lee Story</description>
+		<cloneof></cloneof>
+		<crc>407c5c24</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Dungeon Master" index="" image="">
+		<description>Dungeon Master</description>
+		<cloneof></cloneof>
+		<crc>0dfd9ceb</crc>
+		<manufacturer>JVC Digital Studios</manufacturer>
+		<year>1993</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="E.V.O. - Search for Eden" index="true" image="e">
+		<description>E.V.O. - Search for Eden</description>
+		<cloneof></cloneof>
+		<crc>dd49911e</crc>
+		<manufacturer>Enix</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="EarthBound" index="" image="">
+		<description>EarthBound</description>
+		<cloneof></cloneof>
+		<crc>dc9bb451</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1995</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Earthworm Jim" index="" image="">
+		<description>Earthworm Jim</description>
+		<cloneof></cloneof>
+		<crc>3a4a47eb</crc>
+		<manufacturer>Playmates</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Earthworm Jim 2" index="" image="">
+		<description>Earthworm Jim 2</description>
+		<cloneof></cloneof>
+		<crc>393de197</crc>
+		<manufacturer>Playmates</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Eek! The Cat" index="" image="">
+		<description>Eek! The Cat</description>
+		<cloneof></cloneof>
+		<crc>216f2fc7</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Equinox" index="" image="">
+		<description>Equinox</description>
+		<cloneof></cloneof>
+		<crc>96a4d1c0</crc>
+		<manufacturer>Epic Sony Record</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Eye of the Beholder" index="" image="">
+		<description>Eye of the Beholder</description>
+		<cloneof></cloneof>
+		<crc>20143571</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="F1 Pole Position" index="" image="">
+		<description>F1 Pole Position</description>
+		<cloneof></cloneof>
+		<crc>b3da1b1d</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="F1 Pole Position 2" index="" image="">
+		<description>F1 Pole Position 2</description>
+		<cloneof></cloneof>
+		<crc>83fc0f0c</crc>
+		<manufacturer>Ubisoft</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Family Dog" index="" image="">
+		<description>Family Dog</description>
+		<cloneof></cloneof>
+		<crc>1b53c15a</crc>
+		<manufacturer>Malibu</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Fatal Fury" index="" image="">
+		<description>Fatal Fury</description>
+		<cloneof></cloneof>
+		<crc>c67257d0</crc>
+		<manufacturer>Takara</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Fatal Fury 2" index="" image="">
+		<description>Fatal Fury 2</description>
+		<cloneof></cloneof>
+		<crc>a26ebfef</crc>
+		<manufacturer>Takuyo</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Fatal Fury Special" index="" image="">
+		<description>Fatal Fury Special</description>
+		<cloneof></cloneof>
+		<crc>93935bee</crc>
+		<manufacturer>Takuyo</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Final Fantasy - Mystic Quest" index="" image="">
+		<description>Final Fantasy - Mystic Quest</description>
+		<cloneof></cloneof>
+		<crc>2c52c792</crc>
+		<manufacturer>SquareSoft</manufacturer>
+		<year>1992</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Final Fantasy II" index="" image="">
+		<description>Final Fantasy II</description>
+		<cloneof></cloneof>
+		<crc>23084fcd</crc>
+		<manufacturer>SquareSoft</manufacturer>
+		<year>1991</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Final Fantasy III" index="" image="">
+		<description>Final Fantasy III</description>
+		<cloneof></cloneof>
+		<crc>c0fa0464</crc>
+		<manufacturer>SquareSoft</manufacturer>
+		<year>1994</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Final Fight" index="" image="">
+		<description>Final Fight</description>
+		<cloneof></cloneof>
+		<crc>4cab21db</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1991</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Final Fight 2" index="" image="">
+		<description>Final Fight 2</description>
+		<cloneof></cloneof>
+		<crc>8c37ff55</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Final Fight 3" index="" image="">
+		<description>Final Fight 3</description>
+		<cloneof></cloneof>
+		<crc>a916e708</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Final Fight Guy" index="" image="">
+		<description>Final Fight Guy</description>
+		<cloneof></cloneof>
+		<crc>bc1ae3c2</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1992</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Firemen, The" index="" image="">
+		<description>Firemen, The</description>
+		<cloneof></cloneof>
+		<crc>def665af</crc>
+		<manufacturer>Human Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Flashback - The Quest for Identity" index="" image="">
+		<description>Flashback - The Quest for Identity</description>
+		<cloneof></cloneof>
+		<crc>1e6aceba</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Flintstones, The" index="" image="">
+		<description>Flintstones, The</description>
+		<cloneof></cloneof>
+		<crc>3e7b51e0</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Flintstones, The - The Treasure of Sierra Madrock" index="" image="">
+		<description>Flintstones, The - The Treasure of Sierra Madrock</description>
+		<cloneof></cloneof>
+		<crc>594f5cc6</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="F-Zero" index="true" image="f">
+		<description>F-Zero</description>
+		<cloneof></cloneof>
+		<crc>aa0e31de</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+
+	<game name="Goof Troop" index="" image="">
+		<description>Goof Troop</description>
+		<cloneof></cloneof>
+		<crc>4aafa462</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Gradius III" index="" image="">
+		<description>Gradius III</description>
+		<cloneof></cloneof>
+		<crc>cd973979</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Great Circus Mystery Starring Mickey &amp; Minnie, The" index="" image="">
+		<description>Great Circus Mystery Starring Mickey &amp; Minnie, The</description>
+		<cloneof></cloneof>
+		<crc>1903ea89</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Harley&apos;s Humongous Adventure" index="" image="">
+		<description>Harley&apos;s Humongous Adventure</description>
+		<cloneof></cloneof>
+		<crc>91e0c960</crc>
+		<manufacturer>Hi Tech Expressions</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Harvest Moon" index="" image="">
+		<description>Harvest Moon</description>
+		<cloneof></cloneof>
+		<crc>f829129e</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>1997</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Home Alone" index="" image="">
+		<description>Home Alone</description>
+		<cloneof></cloneof>
+		<crc>07c494b1</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Home Alone 2 - Lost in New York" index="" image="">
+		<description>Home Alone 2 - Lost in New York</description>
+		<cloneof></cloneof>
+		<crc>d19165d9</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Home Improvement" index="" image="">
+		<description>Home Improvement</description>
+		<cloneof></cloneof>
+		<crc>fa698c31</crc>
+		<manufacturer>Absolute Entertainment</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Hook" index="" image="">
+		<description>Hook</description>
+		<cloneof></cloneof>
+		<crc>0c572ef0</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Illusion of Gaia" index="" image="">
+		<description>Illusion of Gaia</description>
+		<cloneof></cloneof>
+		<crc>1c3848c0</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1994</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Imperium" index="" image="">
+		<description>Imperium</description>
+		<cloneof></cloneof>
+		<crc>2624f8bd</crc>
+		<manufacturer>Vic Tokai</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Incredible Hulk, The" index="" image="">
+		<description>Incredible Hulk, The</description>
+		<cloneof></cloneof>
+		<crc>36b5a429</crc>
+		<manufacturer>U.S. Gold</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Indiana Jones&apos; Greatest Adventures" index="" image="">
+		<description>Indiana Jones&apos; Greatest Adventures</description>
+		<cloneof></cloneof>
+		<crc>70da6bb8</crc>
+		<manufacturer>JVC Digital Studios</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Inspector Gadget" index="" image="">
+		<description>Inspector Gadget</description>
+		<cloneof></cloneof>
+		<crc>4ce2b818</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="International Superstar Soccer Deluxe" index="" image="">
+		<description>International Superstar Soccer Deluxe</description>
+		<cloneof></cloneof>
+		<crc>0a20e602</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1995</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Itchy &amp; Scratchy Game, The" index="" image="">
+		<description>Itchy &amp; Scratchy Game, The</description>
+		<cloneof></cloneof>
+		<crc>95b65dfe</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="J.R.R. Tolkien&apos;s The Lord of the Rings - Volume 1" index="true" image="j">
+		<description>J.R.R. Tolkien&apos;s The Lord of the Rings - Volume 1</description>
+		<cloneof></cloneof>
+		<crc>cd2150c8</crc>
+		<manufacturer>Interplay</manufacturer>
+		<year>1994</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Jim Power - The Lost Dimension in 3D" index="" image="">
+		<description>Jim Power - The Lost Dimension in 3D</description>
+		<cloneof></cloneof>
+		<crc>c469f8f0</crc>
+		<manufacturer>ElectroBrain</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Joe &amp; Mac" index="" image="">
+		<description>Joe &amp; Mac</description>
+		<cloneof></cloneof>
+		<crc>3a2b6167</crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Joe &amp; Mac 2 - Lost in the Tropics" index="" image="">
+		<description>Joe &amp; Mac 2 - Lost in the Tropics</description>
+		<cloneof></cloneof>
+		<crc>0c3b4201</crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Judge Dredd" index="" image="">
+		<description>Judge Dredd</description>
+		<cloneof></cloneof>
+		<crc>0a3f0288</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Jurassic Park" index="" image="">
+		<description>Jurassic Park</description>
+		<cloneof></cloneof>
+		<crc>8bfde0b7</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1993</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Jurassic Park II - The Chaos Continues" index="" image="">
+		<description>Jurassic Park II - The Chaos Continues</description>
+		<cloneof></cloneof>
+		<crc>836ee990</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Justice League Task Force" index="" image="">
+		<description>Justice League Task Force</description>
+		<cloneof></cloneof>
+		<crc>31cf46d1</crc>
+		<manufacturer>Sun Soft</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+	<game name="Kendo Rage" index="" image="">
+		<description>Kendo Rage</description>
+		<cloneof></cloneof>
+		<crc>d1048918</crc>
+		<manufacturer>Seta Corporation</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+	<game name="Kick Off 3 - European Challenge" index="" image="">
+		<description>Kick Off 3 - European Challenge</description>
+		<cloneof></cloneof>
+		<crc>1ac7f523</crc>
+		<manufacturer>Vic Tokai</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Killer Instinct" index="" image="">
+		<description>Killer Instinct</description>
+		<cloneof></cloneof>
+		<crc>09e9a04e</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="King of Dragons, The" index="" image="">
+		<description>King of Dragons, The</description>
+		<cloneof></cloneof>
+		<crc>dd505df7</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Kirby Super Star" index="" image="">
+		<description>Kirby Super Star</description>
+		<cloneof></cloneof>
+		<crc>89d0f7dc</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1996</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Kirby&apos;s Avalanche" index="" image="">
+		<description>Kirby&apos;s Avalanche</description>
+		<cloneof></cloneof>
+		<crc>21e658b8</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1995</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Kirby&apos;s Dream Course" index="" image="">
+		<description>Kirby&apos;s Dream Course</description>
+		<cloneof></cloneof>
+		<crc>df8153d9</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1994</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Kirby&apos;s Dream Land 3" index="" image="">
+		<description>Kirby&apos;s Dream Land 3</description>
+		<cloneof></cloneof>
+		<crc>ec8a48f6</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1998</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Knights of the Round" index="" image="">
+		<description>Knights of the Round</description>
+		<cloneof></cloneof>
+		<crc>aaa82126</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Lagoon" index="true" image="l">
+		<description>Lagoon</description>
+		<cloneof></cloneof>
+		<crc>d2554270</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>1991</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Lamborghini American Challenge" index="" image="">
+		<description>Lamborghini American Challenge</description>
+		<cloneof></cloneof>
+		<crc>d2fb701b</crc>
+		<manufacturer>Titus Software</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Lawnmower Man, The" index="" image="">
+		<description>Lawnmower Man, The</description>
+		<cloneof></cloneof>
+		<crc>2736b607</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Legend of Zelda, The - A Link to the Past" index="" image="">
+		<description>Legend of Zelda, The - A Link to the Past</description>
+		<cloneof></cloneof>
+		<crc>777aac2f</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1992</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Lemmings" index="" image="">
+		<description>Lemmings</description>
+		<cloneof></cloneof>
+		<crc>51e3d566</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Lemmings 2 - The Tribes" index="" image="">
+		<description>Lemmings 2 - The Tribes</description>
+		<cloneof></cloneof>
+		<crc>df7200c8</crc>
+		<manufacturer>Psygnosis</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Lion King, The" index="" image="">
+		<description>Lion King, The</description>
+		<cloneof></cloneof>
+		<crc>c8fbfaa8</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Looney Tunes B-Ball" index="" image="">
+		<description>Looney Tunes B-Ball</description>
+		<cloneof></cloneof>
+		<crc>6d3bc96f</crc>
+		<manufacturer>Sun Soft</manufacturer>
+		<year>1995</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Lost Vikings, The" index="" image="">
+		<description>Lost Vikings, The</description>
+		<cloneof></cloneof>
+		<crc>6838be08</crc>
+		<manufacturer>Interplay</manufacturer>
+		<year>1992</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Lost Vikings 2" index="" image="">
+		<description>Lost Vikings 2</description>
+		<cloneof></cloneof>
+		<crc>3aa01dbd</crc>
+		<manufacturer>Interplay</manufacturer>
+		<year>1997</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Lufia &amp; The Fortress of Doom" index="" image="">
+		<description>Lufia &amp; The Fortress of Doom</description>
+		<cloneof></cloneof>
+		<crc>5e1aa1a6</crc>
+		<manufacturer>Taito</manufacturer>
+		<year>1993</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Lufia II - Rise of the Sinistrals" index="" image="">
+		<description>Lufia II - Rise of the Sinistrals</description>
+		<cloneof></cloneof>
+		<crc>20f2ac29</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>1995</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Madden NFL 98" index="" image="">
+		<description>Madden NFL 98</description>
+		<cloneof></cloneof>
+		<crc>cf10cc01</crc>
+		<manufacturer>Black Pearl</manufacturer>
+		<year>1997</year>
+		<genre>Sports/Football</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Magical Quest Starring Mickey Mouse, The" index="" image="">
+		<description>Magical Quest Starring Mickey Mouse, The</description>
+		<cloneof></cloneof>
+		<crc>10874c70</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Mario Is Missing!" index="" image="">
+		<description>Mario Is Missing!</description>
+		<cloneof></cloneof>
+		<crc>e51a3fcd</crc>
+		<manufacturer>Software Toolworks</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Mario&apos;s Time Machine" index="" image="">
+		<description>Mario&apos;s Time Machine</description>
+		<cloneof></cloneof>
+		<crc>5e7397e0</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1993</year>
+		<genre>Miscellaneous</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Marvel Super Heroes - War of the Gems" index="" image="">
+		<description>Marvel Super Heroes - War of the Gems</description>
+		<cloneof></cloneof>
+		<crc>00af56e8</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Mask, The" index="" image="">
+		<description>Mask, The</description>
+		<cloneof></cloneof>
+		<crc>e17626e2</crc>
+		<manufacturer>Black Pearl</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Mega Man 7" index="" image="">
+		<description>Mega Man 7</description>
+		<cloneof></cloneof>
+		<crc>2d947536</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Mega Man Soccer" index="" image="">
+		<description>Mega Man Soccer</description>
+		<cloneof></cloneof>
+		<crc>fa9ee2ce</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Mega Man X" index="" image="">
+		<description>Mega Man X</description>
+		<cloneof></cloneof>
+		<crc>ded53c64</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Mega Man X2" index="" image="">
+		<description>Mega Man X2</description>
+		<cloneof></cloneof>
+		<crc>947b0355</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Mega Man X3" index="" image="">
+		<description>Mega Man X3</description>
+		<cloneof></cloneof>
+		<crc>fa0fe671</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Metal Warriors" index="" image="">
+		<description>Metal Warriors</description>
+		<cloneof></cloneof>
+		<crc>f2ab92d4</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Mickey Mania - The Timeless Adventures of Mickey Mouse" index="" image="">
+		<description>Mickey Mania - The Timeless Adventures of Mickey Mouse</description>
+		<cloneof></cloneof>
+		<crc>08806b5b</crc>
+		<manufacturer>Sony Imagesoft</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Mickey&apos;s Ultimate Challenge" index="" image="">
+		<description>Mickey&apos;s Ultimate Challenge</description>
+		<cloneof></cloneof>
+		<crc>d6c60a84</crc>
+		<manufacturer>Hi Tech Expressions</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Might and Magic III - Isles of Terra" index="" image="">
+		<description>Might and Magic III - Isles of Terra</description>
+		<cloneof></cloneof>
+		<crc>8af25e7e</crc>
+		<manufacturer>FCI, Inc.</manufacturer>
+		<year>1995</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Mighty Morphin Power Rangers" index="" image="">
+		<description>Mighty Morphin Power Rangers</description>
+		<cloneof></cloneof>
+		<crc>a56eb77a</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Mighty Morphin Power Rangers - The Fighting Edition" index="" image="">
+		<description>Mighty Morphin Power Rangers - The Fighting Edition</description>
+		<cloneof></cloneof>
+		<crc>460b0a60</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Mighty Morphin Power Rangers - The Movie" index="" image="">
+		<description>Mighty Morphin Power Rangers - The Movie</description>
+		<cloneof></cloneof>
+		<crc>e3ef6201</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Mortal Kombat" index="" image="">
+		<description>Mortal Kombat</description>
+		<cloneof></cloneof>
+		<crc>def42945</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Mortal Kombat II" index="" image="">
+		<description>Mortal Kombat II</description>
+		<cloneof></cloneof>
+		<crc>70bb5513</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+
+	<game name="Mortal Kombat 3" index="" image="">
+		<description>Mortal Kombat 3</description>
+		<cloneof></cloneof>
+		<crc>4e6af725</crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Ms. Pac-Man" index="" image="">
+		<description>Ms. Pac-Man</description>
+		<cloneof></cloneof>
+		<crc>74d210d3</crc>
+		<manufacturer>Midway</manufacturer>
+		<year>1996</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="NBA Jam" index="" image="">
+		<description>NBA Jam (USA) (Rev 1)</description>
+		<cloneof></cloneof>
+		<crc>8f42cae7</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="NBA Live 98" index="" image="">
+		<description>NBA Live 98</description>
+		<cloneof></cloneof>
+		<crc>514bfcb5</crc>
+		<manufacturer>EA Sports</manufacturer>
+		<year>1998</year>
+		<genre>Sports/Basketball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Ninja Gaiden Trilogy" index="" image="">
+		<description>Ninja Gaiden Trilogy</description>
+		<cloneof></cloneof>
+		<crc>066fe797</crc>
+		<manufacturer>Tecmo</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Nosferatu" index="" image="">
+		<description>Nosferatu</description>
+		<cloneof></cloneof>
+		<crc>de762764</crc>
+		<manufacturer>Seta Corporation</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Out to Lunch" index="" image="">
+		<description>Out to Lunch</description>
+		<cloneof></cloneof>
+		<crc>3d0c8974</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Pac-Attack" index="" image="">
+		<description>Pac-Attack</description>
+		<cloneof></cloneof>
+		<crc>191b1a19</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Pac-in-Time" index="" image="">
+		<description>Pac-in-Time</description>
+		<cloneof></cloneof>
+		<crc>44375368</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Pac-Man 2 - The New Adventures" index="" image="">
+		<description>Pac-Man 2 - The New Adventures</description>
+		<cloneof></cloneof>
+		<crc>9fc62bcc</crc>
+		<manufacturer>Namco</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Paperboy 2" index="" image="">
+		<description>Paperboy 2</description>
+		<cloneof></cloneof>
+		<crc>c85aa66a</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1991</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Parodius" index="" image="">
+		<description>Parodius</description>
+		<cloneof></cloneof>
+		<crc>6ffa308c</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Phalanx - The Enforce Fighter A-144" index="" image="">
+		<description>Phalanx - The Enforce Fighter A-144</description>
+		<cloneof></cloneof>
+		<crc>dc90a8ab</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>1992</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Pinocchio" index="" image="">
+		<description>Pinocchio</description>
+		<cloneof></cloneof>
+		<crc>00fad8fd</crc>
+		<manufacturer>Disney</manufacturer>
+		<year>1996</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Pitfall - The Mayan Adventure" index="" image="">
+		<description>Pitfall - The Mayan Adventure</description>
+		<cloneof></cloneof>
+		<crc>03e67d38</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Plok!" index="" image="">
+		<description>Plok!</description>
+		<cloneof></cloneof>
+		<crc>bbd678f6</crc>
+		<manufacturer>Tradewest</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Pocky &amp; Rocky" index="" image="">
+		<description>Pocky &amp; Rocky</description>
+		<cloneof></cloneof>
+		<crc>2b0e7ea3</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>1993</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Pocky &amp; Rocky 2" index="" image="">
+		<description>Pocky &amp; Rocky 2</description>
+		<cloneof></cloneof>
+		<crc>xxxxxx</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>199X</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Populous" index="" image="">
+		<description>Populous</description>
+		<cloneof></cloneof>
+		<crc>2df4aa0f</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1991</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Populous II - Trials of the Olympian Gods" index="" image="">
+		<description>Populous II - Trials of the Olympian Gods</description>
+		<cloneof></cloneof>
+		<crc>6c28cc39</crc>
+		<manufacturer>Imagineer</manufacturer>
+		<year>1993</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Porky Pig&apos;s Haunted Holiday" index="" image="">
+		<description>Porky Pig&apos;s Haunted Holiday</description>
+		<cloneof></cloneof>
+		<crc>f09e91a1</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Prehistorik Man" index="" image="">
+		<description>Prehistorik Man</description>
+		<cloneof></cloneof>
+		<crc>cb4f87bb</crc>
+		<manufacturer>Titus</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Primal Rage" index="" image="">
+		<description>Primal Rage</description>
+		<cloneof></cloneof>
+		<crc>3753e4b6</crc>
+		<manufacturer>Bitmasters</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Prince of Persia" index="" image="">
+		<description>Prince of Persia</description>
+		<cloneof></cloneof>
+		<crc>891bb2bb</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Prince of Persia 2 - The Shadow &amp; The Flame" index="" image="">
+		<description>Prince of Persia 2 - The Shadow &amp; The Flame</description>
+		<cloneof></cloneof>
+		<crc>50581d9d</crc>
+		<manufacturer>Titus</manufacturer>
+		<year>1996</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Push-Over" index="" image="">
+		<description>Push-Over</description>
+		<cloneof></cloneof>
+		<crc>fa06d5f5</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Radical Rex" index="" image="">
+		<description>Radical Rex</description>
+		<cloneof></cloneof>
+		<crc>e2b8da18</crc>
+		<manufacturer>Activision</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Raiden Trad" index="" image="">
+		<description>Raiden Trad</description>
+		<cloneof></cloneof>
+		<crc>02ce6c96</crc>
+		<manufacturer>Electro Brain</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Ranma 1-2 - Hard Battle" index="" image="">
+		<description>Ranma 1-2 - Hard Battle</description>
+		<cloneof></cloneof>
+		<crc>8e4dadcd</crc>
+		<manufacturer>NCS</manufacturer>
+		<year>1992</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+	
+
+	<game name="Ren &amp; Stimpy Show, The - Buckeroos!" index="" image="">
+		<description>Ren &amp; Stimpy Show, The - Buckeroos!</description>
+		<cloneof></cloneof>
+		<crc>672ebf39</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Ren &amp; Stimpy Show, The - Fire Dogs" index="" image="">
+		<description>Ren &amp; Stimpy Show, The - Fire Dogs</description>
+		<cloneof></cloneof>
+		<crc>0b472197</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+
+	<game name="Ren &amp; Stimpy Show, The - Time Warp" index="" image="">
+		<description>Ren &amp; Stimpy Show, The - Time Warp</description>
+		<cloneof></cloneof>
+		<crc>de8fe3e8</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Ren &amp; Stimpy Show, The - Veediots!" index="" image="">
+		<description>Ren &amp; Stimpy Show, The - Veediots!</description>
+		<cloneof></cloneof>
+		<crc>fd1c12a3</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+
+	<game name="Road Runner&apos;s Death Valley Rally" index="" image="">
+		<description>Road Runner&apos;s Death Valley Rally</description>
+		<cloneof></cloneof>
+		<crc>5980d75d</crc>
+		<manufacturer>Sun Soft</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="RoboCop 3" index="" image="">
+		<description>RoboCop 3</description>
+		<cloneof></cloneof>
+		<crc>3502f9b3</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="RoboCop versus The Terminator" index="" image="">
+		<description>RoboCop versus The Terminator</description>
+		<cloneof></cloneof>
+		<crc>f5ab5d91</crc>
+		<manufacturer>Virgin Interactive</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Robotrek" index="" image="">
+		<description>Robotrek</description>
+		<cloneof></cloneof>
+		<crc>7ad4aadc</crc>
+		<manufacturer>Enix</manufacturer>
+		<year>1994</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Rock n&apos; Roll Racing" index="" image="">
+		<description>Rock n&apos; Roll Racing</description>
+		<cloneof></cloneof>
+		<crc>7d06f473</crc>
+		<manufacturer>Blizzard Entertainment</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Rocko&apos;s Modern Life - Spunky&apos;s Dangerous Day" index="" image="">
+		<description>Rocko&apos;s Modern Life - Spunky&apos;s Dangerous Day</description>
+		<cloneof></cloneof>
+		<crc>197b4cba</crc>
+		<manufacturer>Viacom New Media</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+
+	<game name="Romance of the Three Kingdoms IV - Wall of Fire" index="" image="">
+		<description>Romance of the Three Kingdoms IV - Wall of Fire</description>
+		<cloneof></cloneof>
+		<crc>82af5b69</crc>
+		<manufacturer>Koei</manufacturer>
+		<year>1995</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	
+
+	<game name="Secret of Evermore" index="" image="">
+		<description>Secret of Evermore</description>
+		<cloneof></cloneof>
+		<crc>a5c0045e</crc>
+		<manufacturer>SquareSoft</manufacturer>
+		<year>1995</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Secret of Mana" index="" image="">
+		<description>Secret of Mana</description>
+		<cloneof></cloneof>
+		<crc>d0176b24</crc>
+		<manufacturer>SquareSoft</manufacturer>
+		<year>1993</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	
+	<game name="Shadowrun" index="" image="">
+		<description>Shadowrun</description>
+		<cloneof></cloneof>
+		<crc>3f34dff0</crc>
+		<manufacturer>Data East</manufacturer>
+		<year>1993</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="SimCity" index="" image="">
+		<description>SimCity</description>
+		<cloneof></cloneof>
+		<crc>8aedd3a1</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1991</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+	<game name="SimCity 2000" index="" image="">
+		<description>SimCity 2000</description>
+		<cloneof></cloneof>
+		<crc>2d5dc011</crc>
+		<manufacturer>Black Pearl</manufacturer>
+		<year>1996</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+	<game name="Simpsons, The - Bart&apos;s Nightmare" index="" image="">
+		<description>Simpsons, The - Bart&apos;s Nightmare</description>
+		<cloneof></cloneof>
+		<crc>ed1c03c2</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1992</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Skuljagger - Revolt of the Westicans" index="" image="">
+		<description>Skuljagger - Revolt of the Westicans</description>
+		<cloneof></cloneof>
+		<crc>e58a6d01</crc>
+		<manufacturer>American Softworks</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Soldiers of Fortune" index="" image="">
+		<description>Soldiers of Fortune</description>
+		<cloneof></cloneof>
+		<crc>cf719a93</crc>
+		<manufacturer>Spectrum Holobyte</manufacturer>
+		<year>1993</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Soul Blazer" index="" image="">
+		<description>Soul Blazer</description>
+		<cloneof></cloneof>
+		<crc>31b965db</crc>
+		<manufacturer>Enix</manufacturer>
+		<year>1992</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Spawn" index="" image="">
+		<description>Spawn</description>
+		<cloneof></cloneof>
+		<crc>4e1dafd0</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Spider-Man" index="" image="">
+		<description>Spider-Man</description>
+		<cloneof></cloneof>
+		<crc>c99e174e</crc>
+		<manufacturer>LJN</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Spider-Man & Venom - Maximum Carnage" index="" image="">
+		<description>Spider-Man & Venom - Maximum Carnage</description>
+		<cloneof></cloneof>
+		<crc>7ef2bb0c</crc>
+		<manufacturer>LJN</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+	<game name="Spider-Man & Venom - Separation Anxiety" index="" image="">
+		<description>Spider-Man & Venom - Separation Anxiety</description>
+		<cloneof></cloneof>
+		<crc>919c509d</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1995</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Spider-Man and the X-Men - Arcade's Revenge" index="" image="">
+		<description>Spider-Man and the X-Men - Arcade's Revenge</description>
+		<cloneof></cloneof>
+		<crc>ae878ccb</crc>
+		<manufacturer>LJN</manufacturer>
+		<year>1992</year>
+		<genre>platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Star Fox" index="" image="">
+		<description>Star Fox</description>
+		<cloneof></cloneof>
+		<crc>cd1f04b8</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1993</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Star Trek - Deep Space Nine - Crossroads of Time" index="" image="">
+		<description>Star Trek - Deep Space Nine - Crossroads of Time</description>
+		<cloneof></cloneof>
+		<crc>9a245fa3</crc>
+		<manufacturer>Playmates</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Star Trek - Starfleet Academy - Starship Bridge Simulator" index="" image="">
+		<description>Star Trek - Starfleet Academy - Starship Bridge Simulator</description>
+		<cloneof></cloneof>
+		<crc>2db38d24</crc>
+		<manufacturer>Interplay</manufacturer>
+		<year>1994</year>
+		<genre>Simulation</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Star Trek - The Next Generation - Future&apos;s Past" index="" image="">
+		<description>Star Trek - The Next Generation - Future&apos;s Past</description>
+		<cloneof></cloneof>
+		<crc>8de80428</crc>
+		<manufacturer>Spectrum Holobyte</manufacturer>
+		<year>1995</year>
+		<genre>Adventure</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Stargate" index="" image="">
+		<description>Stargate</description>
+		<cloneof></cloneof>
+		<crc>526ce576</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Street Fighter Alpha 2" index="" image="">
+		<description>Street Fighter Alpha 2</description>
+		<cloneof></cloneof>
+		<crc>9c59ddff</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Street Fighter II" index="" image="">
+		<description>Street Fighter II</description>
+		<cloneof></cloneof>
+		<crc>bc3dcd9d</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1992</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Street Fighter II Turbo" index="" image="">
+		<description>Street Fighter II Turbo</description>
+		<cloneof></cloneof>
+		<crc>a45cadd6</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Sunset Riders" index="" image="">
+		<description>Sunset Riders</description>
+		<cloneof></cloneof>
+		<crc>52ada404</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Super Adventure Island" index="" image="">
+		<description>Super Adventure Island</description>
+		<cloneof></cloneof>
+		<crc>dcd46848</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Super Adventure Island II" index="" image="">
+		<description>Super Adventure Island II</description>
+		<cloneof></cloneof>
+		<crc>52fe16fd</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Super Bomberman" index="" image="">
+		<description>Super Bomberman</description>
+		<cloneof></cloneof>
+		<crc>63a8e2c6</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Super Bomberman 2" index="" image="">
+		<description>Super Bomberman 2</description>
+		<cloneof></cloneof>
+		<crc>9c1f11e4</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Super Bomberman 3" index="" image="">
+		<description>Super Bomberman 3</description>
+		<cloneof></cloneof>
+		<crc>a096a6e5</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>1995</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Super Caesars Palace" index="" image="">
+		<description>Super Caesars Palace</description>
+		<cloneof></cloneof>
+		<crc>a2381221</crc>
+		<manufacturer>Virgion</manufacturer>
+		<year>1993</year>
+		<genre>Casino</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Super Castlevania IV" index="" image="">
+		<description>Super Castlevania IV</description>
+		<cloneof></cloneof>
+		<crc>b64ffb12</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Super Copa (Brazil)" index="" image="">
+		<description>Super Copa (Brazil)</description>
+		<cloneof></cloneof>
+		<crc>49e53877</crc>
+		<manufacturer>American Softworks</manufacturer>
+		<year>1994</year>
+		<genre>Soccer/Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Super Double Dragon" index="" image="">
+		<description>Super Double Dragon</description>
+		<cloneof></cloneof>
+		<crc>09ed12a5</crc>
+		<manufacturer>Tradewest</manufacturer>
+		<year>1992</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Super Mario All-Stars" index="" image="">
+		<description>Super Mario All-Stars</description>
+		<cloneof></cloneof>
+		<crc>xxxx</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>199x</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+
+	<game name="Super Mario Kart" index="" image="">
+		<description>Super Mario Kart</description>
+		<cloneof></cloneof>
+		<crc>cd80db86</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+
+	<game name="Super Mario RPG - Legend of the Seven Stars" index="" image="">
+		<description>Super Mario RPG - Legend of the Seven Stars</description>
+		<cloneof></cloneof>
+		<crc>1b8a0625</crc>
+		<manufacturer>SquareSoft</manufacturer>
+		<year>1996</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+
+	<game name="Super Mario World" index="" image="">
+		<description>Super Mario World</description>
+		<cloneof></cloneof>
+		<crc>b19ed489</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1991</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+
+	<game name="Super Mario World 2 - Yoshi&apos;s Island" index="" image="">
+		<description>Super Mario World 2 - Yoshi&apos;s Island</description>
+		<cloneof></cloneof>
+		<crc>cf98ddaa</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+
+	<game name="Super Metroid" index="" image="">
+		<description>Super Metroid</description>
+		<cloneof></cloneof>
+		<crc>d63ed5f8</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1994</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+
+	<game name="Super Off Road" index="" image="">
+		<description>Super Off Road</description>
+		<cloneof></cloneof>
+		<crc>fe263383</crc>
+		<manufacturer>Tradewest</manufacturer>
+		<year>1991</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Super Pinball - Behind the Mask" index="" image="">
+		<description>Super Pinball - Behind the Mask</description>
+		<cloneof></cloneof>
+		<crc>008463a0</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1994</year>
+		<genre>Pinball</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Super Punch-Out!!" index="" image="">
+		<description>Super Punch-Out!!</description>
+		<cloneof></cloneof>
+		<crc>e2f92f84</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1994</year>
+		<genre>Sports/Boxing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Super R-Type" index="" image="">
+		<description>Super R-Type</description>
+		<cloneof></cloneof>
+		<crc>8b22c830</crc>
+		<manufacturer>Irem</manufacturer>
+		<year>1991</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Super Soccer" index="" image="">
+		<description>Super Soccer</description>
+		<cloneof></cloneof>
+		<crc>4fd164d8</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1992</year>
+		<genre>Sports/Soccer</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Super Star Wars" index="" image="">
+		<description>Super Star Wars</description>
+		<cloneof></cloneof>
+		<crc>be47f6c6</crc>
+		<manufacturer>JVC Digital Studios</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Super Star Wars - Return of the Jedi" index="" image="">
+		<description>Super Star Wars - Return of the Jedi</description>
+		<cloneof></cloneof>
+		<crc>4a5f30d8</crc>
+		<manufacturer>Victor Interactive Software</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Super Star Wars - The Empire Strikes Back" index="" image="">
+		<description>Super Star Wars - The Empire Strikes Back</description>
+		<cloneof></cloneof>
+		<crc>1e7ea62c</crc>
+		<manufacturer>JVC Musical Industries, Inc.</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Super Street Fighter II" index="" image="">
+		<description>Super Street Fighter II</description>
+		<cloneof></cloneof>
+		<crc>f16d5ce9</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="SWAT Kats - The Radical Squadron" index="" image="">
+		<description>SWAT Kats - The Radical Squadron</description>
+		<cloneof></cloneof>
+		<crc>ea2a23fb</crc>
+		<manufacturer>Hudson</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Syndicate" index="" image="">
+		<description>Syndicate</description>
+		<cloneof></cloneof>
+		<crc>d74570d3</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1995</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Taz-Mania" index="" image="">
+		<description>Taz-Mania</description>
+		<cloneof></cloneof>
+		<crc>b17230ae</crc>
+		<manufacturer>SunSoft</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Teenage Mutant Ninja Turtles - Tournament Fighters" index="" image="">
+		<description>Teenage Mutant Ninja Turtles - Tournament Fighters</description>
+		<cloneof></cloneof>
+		<crc>e2fe5dbf</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Teenage Mutant Ninja Turtles IV - Turtles in Time" index="" image="">
+		<description>Teenage Mutant Ninja Turtles IV - Turtles in Time</description>
+		<cloneof></cloneof>
+		<crc>5940bd99</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1992</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	
+	<game name="Terminator, The" index="" image="">
+		<description>Terminator, The</description>
+		<cloneof></cloneof>
+		<crc>d71e6c3b</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+<game name="Terminator 2 - Judgment Day" index="" image="">
+		<description>Terminator 2 - Judgment Day</description>
+		<cloneof></cloneof>
+		<crc>f729b19e</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Terranigma" index="" image="">
+		<description>Terranigma</description>
+		<cloneof></cloneof>
+		<crc>974523ff</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1996</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Tetris &amp; Dr. Mario" index="" image="">
+		<description>Tetris &amp; Dr. Mario</description>
+		<cloneof></cloneof>
+		<crc>6c852ef3</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Tetris 2" index="" image="">
+		<description>Tetris 2</description>
+		<cloneof></cloneof>
+		<crc>3bc7054a</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1994</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Tetris Attack" index="" image="">
+		<description>Tetris Attack</description>
+		<cloneof></cloneof>
+		<crc>6c128210</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1996</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Theme Park" index="" image="">
+		<description>Theme Park</description>
+		<cloneof></cloneof>
+		<crc>ca0e041c</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1996</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Timon &amp; Pumbaa&apos;s Jungle Games" index="" image="">
+		<description>Timon &amp; Pumbaa&apos;s Jungle Games</description>
+		<cloneof></cloneof>
+		<crc>341c6fb0</crc>
+		<manufacturer>THQ</manufacturer>
+		<year>1997</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Tintin - Prisoners of the Sun" index="" image="">
+		<description>Tintin - Prisoners of the Sun</description>
+		<cloneof></cloneof>
+		<crc>a94a47be</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>1997</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Tintin in Tibet" index="" image="">
+		<description>Tintin in Tibet</description>
+		<cloneof></cloneof>
+		<crc>f1dce2b7</crc>
+		<manufacturer>Infogrames</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Tiny Toon Adventures - Buster Busts Loose!" index="" image="">
+		<description>Tiny Toon Adventures - Buster Busts Loose!</description>
+		<cloneof></cloneof>
+		<crc>ab48d27a</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Tiny Toon Adventures - Wacky Sports Challenge" index="" image="">
+		<description>Tiny Toon Adventures - Wacky Sports Challenge</description>
+		<cloneof></cloneof>
+		<crc>afe72ff0</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1994</year>
+		<genre>Sports</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Tom &amp; Jerry" index="" image="">
+		<description>Tom &amp; Jerry</description>
+		<cloneof></cloneof>
+		<crc>8b1dafbb</crc>
+		<manufacturer>Hi Tech Expressions</manufacturer>
+		<year>1992</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Top Gear" index="" image="">
+		<description>Top Gear</description>
+		<cloneof></cloneof>
+		<crc>d34c49b7</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>1992</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Top Gear 2" index="" image="">
+		<description>Top Gear 2</description>
+		<cloneof></cloneof>
+		<crc>2b88bee8</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>1993</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Top Gear 3000" index="" image="">
+		<description>Top Gear 3000</description>
+		<cloneof></cloneof>
+		<crc>a20be998</crc>
+		<manufacturer>Kemco</manufacturer>
+		<year>1995</year>
+		<genre>Driving</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Toy Story" index="" image="">
+		<description>Toy Story</description>
+		<cloneof></cloneof>
+		<crc>8328822b</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1996</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Ultima - Runes of Virtue II" index="" image="">
+		<description>Ultima - Runes of Virtue II</description>
+		<cloneof></cloneof>
+		<crc>cc4eebf4</crc>
+		<manufacturer>Electronic Arts Victor</manufacturer>
+		<year>1994</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Ultima VI - The False Prophet" index="" image="">
+		<description>Ultima VI - The False Prophet</description>
+		<cloneof></cloneof>
+		<crc>9277c9f7</crc>
+		<manufacturer>FCI, Inc.</manufacturer>
+		<year>1992</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Ultima VII - The Black Gate" index="" image="">
+		<description>Ultima VII - The Black Gate</description>
+		<cloneof></cloneof>
+		<crc>e790f52f</crc>
+		<manufacturer>FCI, Inc.</manufacturer>
+		<year>1994</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Ultimate Mortal Kombat 3" index="" image="">
+		<description>Ultimate Mortal Kombat 3</description>
+		<cloneof></cloneof>
+		<crc>f5bfe41e</crc>
+		<manufacturer>Williams</manufacturer>
+		<year>1996</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Ultraman - Towards the Future" index="" image="">
+		<description>Ultraman - Towards the Future</description>
+		<cloneof></cloneof>
+		<crc>1ded2814</crc>
+		<manufacturer>Bandai</manufacturer>
+		<year>1991</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+
+	<game name="Virtual Bart" index="" image="">
+		<description>Virtual Bart</description>
+		<cloneof></cloneof>
+		<crc>5d0addda</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	
+
+
+	<game name="Wario&apos;s Woods" index="" image="">
+		<description>Wario&apos;s Woods</description>
+		<cloneof></cloneof>
+		<crc>2d1004f1</crc>
+		<manufacturer>Nintendo</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Warlock" index="" image="">
+		<description>Warlock</description>
+		<cloneof></cloneof>
+		<crc>a47884d0</crc>
+		<manufacturer>Acclaim</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Where in the World Is Carmen Sandiego" index="" image="">
+		<description>Where in the World Is Carmen Sandiego</description>
+		<cloneof></cloneof>
+		<crc>9ef83223</crc>
+		<manufacturer>Hi-Tech</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Where in Time Is Carmen Sandiego" index="" image="">
+		<description>Where in Time Is Carmen Sandiego</description>
+		<cloneof></cloneof>
+		<crc>1712018b</crc>
+		<manufacturer>Hi-Tech</manufacturer>
+		<year>1993</year>
+		<genre>Puzzle</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+
+	<game name="Wild Guns" index="" image="">
+		<description>Wild Guns</description>
+		<cloneof></cloneof>
+		<crc>085d8d14</crc>
+		<manufacturer>Natsume</manufacturer>
+		<year>1994</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Wing Commander" index="" image="">
+		<description>Wing Commander</description>
+		<cloneof></cloneof>
+		<crc>65ad4f8d</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1993</year>
+		<genre>Flying</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Wing Commander - The Secret Missions" index="" image="">
+		<description>Wing Commander - The Secret Missions</description>
+		<cloneof></cloneof>
+		<crc>d5e9af7f</crc>
+		<manufacturer>Mindscape</manufacturer>
+		<year>1993</year>
+		<genre>Flying</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Wolfenstein 3D" index="" image="">
+		<description>Wolfenstein 3D</description>
+		<cloneof></cloneof>
+		<crc>6582a8f5</crc>
+		<manufacturer>Imagineer</manufacturer>
+		<year>1994</year>
+		<genre>Shooter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Wolverine - Adamantium Rage" index="" image="">
+		<description>Wolverine - Adamantium Rage</description>
+		<cloneof></cloneof>
+		<crc>4e62d6bf</crc>
+		<manufacturer>LJN Ltd.</manufacturer>
+		<year>1994</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="World Heroes" index="" image="">
+		<description>World Heroes</description>
+		<cloneof></cloneof>
+		<crc>1228ad30</crc>
+		<manufacturer>Sun Soft</manufacturer>
+		<year>1993</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="World Heroes 2" index="" image="">
+		<description>World Heroes 2</description>
+		<cloneof></cloneof>
+		<crc>098d7eaa</crc>
+		<manufacturer>Takara</manufacturer>
+		<year>1994</year>
+		<genre>Fighter</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Worms" index="" image="">
+		<description>Worms</description>
+		<cloneof></cloneof>
+		<crc>90d0fac0</crc>
+		<manufacturer>Ocean</manufacturer>
+		<year>1996</year>
+		<genre>Strategy</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="X-Men - Mutant Apocalypse" index="" image="">
+		<description>X-Men - Mutant Apocalypse</description>
+		<cloneof></cloneof>
+		<crc>5e34822a</crc>
+		<manufacturer>Capcom</manufacturer>
+		<year>1995</year>
+		<genre>Platform</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+	<game name="Ys III - Wanderers from Ys" index="" image="">
+		<description>Ys III - Wanderers from Ys</description>
+		<cloneof></cloneof>
+		<crc>64a91e64</crc>
+		<manufacturer>American Sammy</manufacturer>
+		<year>1991</year>
+		<genre>Role-Playing</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game> 
+
+
+	<game name="Zombies Ate My Neighbors" index="" image="">
+		<description>Zombies Ate My Neighbors</description>
+		<cloneof></cloneof>
+		<crc>7cfc0c7c</crc>
+		<manufacturer>Konami</manufacturer>
+		<year>1993</year>
+		<genre>Action</genre>
+		<rating>Other - NR (Not Rated)</rating>
+		<enabled>Yes</enabled>
+	</game>
+
+
+</menu>
