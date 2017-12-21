@@ -1,0 +1,927 @@
+[code]
+08:57:49:718 | RL |      INFO  | +N/A   | Main - RocketLauncher v1.2.0.1 (www.rlauncher.com)
+08:57:49:966 | RL |      INFO  | +250   | Main - System Specs:
+					RocketLauncher Dir: C:\GoodOld Hype\RocketLauncher
+					RocketLauncher is: 32-bit
+					OS: Microsoft Windows 10 Home Single Language
+					SKU: Windows 8 Single Language
+					Total Memory: 8089.77 MB
+					Free Memory: 4170.17 MB
+					Used Memory: 3919.602 MB
+					SystemType: 64-bit
+					Physical Processors: 1
+					Logical Processors: 4
+					GPU 1 Name: Intel(R) HD Graphics 4000
+					GPU 1 RAM: -2016.00 MB
+					GPU 1 Driver Version: 10.18.10.4653
+					Sound 1 Device: Áudio Intel(R) para telas
+					Sound 1 Status: Enabled
+					Sound 2 Device: Conexant SmartAudio HD
+					Sound 2 Status: Enabled
+					OS Language: Portuguese_Brazilian
+					System Locale: pt-BR
+					Formats Locale: pt-BR
+					Windows UI Language: pt-BR
+					Text Encoding: Windows-1252
+					OS Admin Status: No
+					RL Compatibility Flags: 
+					Latest .Net Version: v4.0.30319
+					Monitor #1 (\\.\DISPLAY1): 1366x768 (1366x728 work) [32bit] [60hz] [Landscape]  (Primary)
+					Current AHK Desktop Width: 1366
+					Current AHK Desktop Height: 768
+					Monitor #1 DPI: 100
+					ErrorMode: 0
+					AutoHotkey Path: 
+					AHK Version: 1.1.13.00
+					Unicode: No
+08:57:49:966 | RL |      INFO  | +0     | CheckFile - Checking if C:\GoodOld Hype\RocketLauncher\RocketLauncher.exe exists
+08:57:49:968 | RL |      INFO  | +0     | Main - Raw CLI received: "Sega 32x Shadow Squadron ~ Stellar Assault"
+08:57:49:968 | RL |      INFO  | +0     | Main - Loading Front End Plugin: "RocketLauncherUI"
+08:57:49:969 | RL |      INFO  | +0     | Process.Process - "Exist" "HyperSpin.exe" 
+08:57:49:988 | RL |      INFO  | +15    | Main - Detected HyperSpin.exe is currently running
+08:57:49:988 | RL |      INFO  | +0     | Main - HyperSpin.exe coordinates are x0 y0 w1366 h768
+08:57:49:988 | RL |      INFO  | +0     | Main - RocketLauncher received "Sega 32x" and "Shadow Squadron ~ Stellar Assault"
+08:57:49:998 | RL |      INFO  | +16    | Main - Did not find a "C:\GoodOld Hype\RocketLauncher\Settings\Sega 32x\Game Options.ini" file, skipping any game-specific options.
+08:57:49:998 | RL |      INFO  | +0     | Main - Shadow Squadron ~ Stellar Assault is using the default emulator: Fusion
+08:57:49:998 | RL |      INFO  | +0     | Main - Checking for a [Fusion] section in C:\GoodOld Hype\RocketLauncher\Settings\Sega 32x\Emulators.ini
+08:57:49:998 | RL |      INFO  | +0     | Main - Found [Fusion] in C:\GoodOld Hype\RocketLauncher\Settings\Sega 32x\Emulators.ini
+08:57:49:998 | RL |      INFO  | +0     | CheckFile - Checking if C:\GoodOld Hype\RocketLauncher\Modules\Fusion\Fusion.ahk exists
+08:57:49:008 | RL |      INFO  | +16    | Main - CRC Check - CRC matches, this is an official unedited module.
+08:57:50:008 | RL |      INFO  | +0     | Main - Shadow Squadron ~ Stellar Assault will use module: C:\GoodOld Hype\RocketLauncher\Modules\Fusion\Fusion.ahk
+08:57:50:035 | RL |      INFO  | +15    | Main - Using standard method with "Rom Extension" SkipChecks or without any SkipChecks.
+08:57:50:041 | RL |      INFO  | +16    | CheckFile - Checking if C:\GoodOld Hype\Emulators\Sega\Fusion.exe exists
+08:57:50:041 | RL |      INFO  | +0     | Main - INI Keys read
+08:57:50:042 | RL |      INFO  | +0     | CheckFile - Checking if C:\GoodOld Hype\RocketLauncher\Module Extensions\7z.exe exists
+08:57:50:042 | RL |      INFO  | +0     | CheckFile - Checking if C:\GoodOld Hype\RocketLauncher\Module Extensions\7z.dll exists
+08:57:50:051 | RL |      INFO  | +0     | Main - "Shadow Squadron ~ Stellar Assault" does not qualify for MultiGame. Only roms with any of these strings in their name are acceptable: \(Disc|\(Disk|\(Cart|\(Tape|\(Cassette|\(Part|\(Side
+08:57:50:051 | RL |      INFO  | +0     | CheckPaths - Started
+08:57:50:051 | RL |      INFO  | +0     | CheckPaths - Looking for rom: C:\GoodOld Hype\Databases\Sega 32x\Shadow Squadron ~ Stellar Assault.zip
+08:57:50:051 | RL |      INFO  | +0     | CheckPaths - Found rom: C:\GoodOld Hype\Databases\Sega 32x\Shadow Squadron ~ Stellar Assault.zip
+08:57:50:051 | RL |      INFO  | +0     | CheckPaths - Ended
+08:57:50:053 | RL |      INFO  | +15    | BuildScript - User Variables:
+					;----------------------------------------------------------------------------
+					; INJECTED VARIABLES
+					;----------------------------------------------------------------------------
+					
+					#NoTrayIcon
+					#InstallKeybdHook
+					MiscUtils.DetectHiddenWindows("On")
+					SetTitleMatchMode, 2
+					SendMode, Event
+					Global RLLog
+					Global RLObject
+					0 := "2"
+					rlPath := "C:\GoodOld Hype\RocketLauncher"
+					pluginPath := "C:\GoodOld Hype\RocketLauncher\Plugins"
+					pluginName := "RocketLauncherUI"
+					pluginExt := ".plugin"
+					contextOnExit := ""
+					rlMode := ""
+					rlTitle := "RocketLauncher"
+					rlVersion := "1.2.0.1"
+					rlAuthor := "djvj"
+					rlURL := "www.rlauncher.com"
+					langFile := "C:\GoodOld Hype\RocketLauncher\Data\Language\Localization.ini"
+					primMonitor := "1"
+					frontendPID := "15780"
+					frontendPath := "C:\GoodOld Hype"
+					frontendExe := "HyperSpin.exe"
+					frontendExt := "exe"
+					frontendName := "HyperSpin"
+					frontendDrive := "C"
+					exitEmulatorKey := "~Esc"
+					restoreFE := "false"
+					exitScriptKey := "~q & ~s"
+					toggleCursorKey := "~e & ~t"
+					emuFullPath := "C:\GoodOld Hype\Emulators\Sega\Fusion.exe"
+					emuPath := "C:\GoodOld Hype\Emulators\Sega"
+					emuName := "Fusion"
+					emuExt := "exe"
+					baseRomPath := "C:\GoodOld Hype\Databases\Sega 32x"
+					romPath := "C:\GoodOld Hype\Databases\Sega 32x"
+					romPathFromIni := "C:\GoodOld Hype\Databases\Sega 32x"
+					romExtension := ".zip"
+					romExtensionOrig := ".zip"
+					romExtensions := "zip"
+					executable := "Fusion.exe"
+					systemDbName := "Sega 32x"
+					systemName := "Sega 32x"
+					dbPath := ""
+					dbName := "Shadow Squadron ~ Stellar Assault"
+					dbExt := ""
+					romFoundByExt := ""
+					romName := "Shadow Squadron ~ Stellar Assault"
+					romMapPath := ""
+					romMappingEnabled := "false"
+					romMappingLaunchMenuEnabled := "false"
+					romMappingFirstMatchingExt := "false"
+					romMappingShowAllRomsInArchive := "true"
+					romMappingNumberOfGamesByScreen := "7"
+					romMappingHideParent := "false"
+					romMappingMenuWidth := "400"
+					romMappingMenuMargin := "65"
+					romMappingTextFont := "Bebas Neue"
+					romMappingTextOptions := "cFFFFFFFF r4 s60 Bold"
+					romMappingDisabledTextColor := "ff888888"
+					romMappingTextSizeDifference := "7"
+					romMappingTextMargin := "15"
+					romMappingTitleTextFont := "Bebas Neue"
+					romMappingTitleTextOptions := "cFFFFFFFF r4 s90 Bold"
+					romMappingTitle2TextFont := "Bebas Neue"
+					romMappingTitle2TextOptions := "cFFFFFFFF r4 s22 Bold"
+					romMappingGameInfoTextFont := "Bebas Neue"
+					romMappingGameInfoTextOptions := "cFFFFFFFF r4 s22 Regular"
+					romMappingGameNameTextFont := "Bebas Neue"
+					romMappingGameNameTextOptions := "cFFFFFFFF r4 s40 Regular"
+					romMappingBackgroundBrush := "aa000000"
+					romMappingColumnBrush := "33000000"
+					romMappingButtonBrush1 := "6f000000"
+					romMappingButtonBrush2 := "33000000"
+					romMappingBackgroundAlign := "Stretch and Lose Aspect"
+					romMappingMenuFlagWidth := "55"
+					romMappingMenuFlagSeparation := "7"
+					romMappingDefaultMenuList := "FullList"
+					romMappingSingleFilteredRomAutomaticLaunch := "false"
+					altArchiveNameOnly := ""
+					altRomNameOnly := ""
+					altArchiveAndRomName := ""
+					altArchiveAndManyRomNames := ""
+					altRomNamesOnly := ""
+					romMapScenario := ""
+					skipchecks := "false"
+					romMatchExt := "false"
+					blockInputTime := "0"
+					blockInputFile := "C:\GoodOld Hype\RocketLauncher\Module Extensions\BlockInput.exe"
+					errorLevelReporting := "false"
+					lockLaunch := "false"
+					lockLaunchGame := ""
+					screenRotationAngle := "0"
+					screenRotationAngleGame := ""
+					setResolution := ""
+					logFile := ""
+					logLabel := ["    INFO"," WARNING","   ERROR","   DEBUG","   TRACE"]
+					logLevel := "3"
+					logShowDebugConsole := "false"
+					logShowCommandWindow := "false"
+					logCommandWindow := "false"
+					logIncludeModule := "true"
+					logIncludeFileProperties := "true"
+					logIncludeDLLLogs := "false"
+					errorSounds := "true"
+					rlDebugConsoleStdout := ""
+					sysLang := "Portuguese_Brazilian"
+					sysType := "64-bit"
+					broadcastWindowTitle := ""
+					navUpKey := "Up"
+					navDownKey := "Down"
+					navLeftKey := "Left"
+					navRightKey := "Right"
+					navSelectKey := "Enter"
+					navP2UpKey := "Numpad8"
+					navP2DownKey := "Numpad2"
+					navP2LeftKey := "Numpad4"
+					navP2RightKey := "Numpad6"
+					navP2SelectKey := "NumpadEnter"
+					originalWidth := "1366"
+					originalHeight := "768"
+					vdEnabled := "false"
+					vdFullPath := ""
+					vdUseSCSI := "true"
+					vdDriveLetter := ""
+					vdDriveLetterScsi := ""
+					vdAddDrive := "true"
+					demulShooterPath := ""
+					servoStikEnabled := "false"
+					servoStikExitMode := "false"
+					ledblinkyEnabled := "false"
+					ledblinkySystemName := ""
+					ledblinkyFullPath := ""
+					ledblinkyProfilePath := "C:\GoodOld Hype\RocketLauncher\Profiles\LEDBlinky"
+					ledblinkyRLProfile := "C:\GoodOld Hype\RocketLauncher\Profiles\LEDBlinky\RocketLauncher"
+					winIPACFullPath := ""
+					ultraMapEnabled := "false"
+					ultraMapFullPath := ""
+					emuIdleShutdown := "0"
+					launchPasswordHash := "UpUpDownDownLeftRightLeftRight"
+					cursorSize := ""
+					hideCursor := "false"
+					hideEmu := "false"
+					hideFE := "false"
+					suspendFE := "false"
+					fadeIn := "false"
+					fadeInDuration := "500"
+					fadeInTransitionAnimation := "DefaultAnimateFadeIn"
+					fadeInDelay := "0"
+					fadeInExitDelay := "0"
+					fadeOutExitDelay := "0"
+					fadeOut := "false"
+					fadeOutExtraScreen := "false"
+					fadeOutDuration := "500"
+					fadeOutTransitionAnimation := "DefaultAnimateFadeOut"
+					fadeOutDelay := "0"
+					fadeLyrInterpolation := "7"
+					fadeMuteEmulator := "false"
+					fadeUseBackgrounds := "false"
+					fadeClickThrough := "false"
+					fadeSounds := "true"
+					fade7zProgressMode := "extraction"
+					fadeWidthBaseRes := "1920"
+					fadeHeightBaseRes := "1080"
+					fadeLyr1Color := "FF000000"
+					fadeLyr1AlignImage := "Stretch and Lose Aspect"
+					fadeLyr2Pos := "Stretch and Lose Aspect"
+					fadeLyr2X := "0"
+					fadeLyr2Y := "0"
+					fadeLyr2W := ""
+					fadeLyr2H := ""
+					fadeLyr2Adjust := "1"
+					fadeLyr2PicPad := "0"
+					fadeLyr2Prefix := "Extra Layer 1 - Console"
+					fadeLyr3Pos := "Center"
+					fadeLyr3X := "450"
+					fadeLyr3Y := "450"
+					fadeLyr3W := ""
+					fadeLyr3H := ""
+					fadeLyr3Adjust := "1"
+					fadeLyr3PicPad := "0"
+					fadeLyr3Speed := "750"
+					fadeLyr3Animation := "DefaultFadeAnimation"
+					fadeLyr37zAnimation := "DefaultFadeAnimation"
+					fadeLyr3Type := "imageandbar"
+					fadeLyr3ImgFollow7zProgress := "true"
+					fadeLyr3Repeat := "1"
+					fadeLyr3BackImageTransparency := "30"
+					fadeLyr3StaticPos := "No Alignment"
+					fadeLyr3StaticX := "0"
+					fadeLyr3StaticY := "870|1575"
+					fadeLyr3StaticW := ""
+					fadeLyr3StaticH := ""
+					fadeLyr3StaticAdjust := "1"
+					fadeLyr3StaticPicPad := "0"
+					fadeLyr3StaticPrefix := "Info Bar"
+					fadeLyr4Adjust := "1"
+					fadeLyr4X := "1792|952"
+					fadeLyr4Y := "891|1596"
+					fadeLyr4W := "128"
+					fadeLyr4H := ""
+					fadeLyr4Pos := "No Alignment"
+					fadeLyr4FPS := "50"
+					fadeLyr4PicPad := "0"
+					fadeTranspGifColor := "FFFFFF"
+					fadeBarWindow := "Image"
+					fadeBarWindowX := ""
+					fadeBarWindowY := ""
+					fadeBarWindowW := "900"
+					fadeBarWindowH := ""
+					fadeBarWindowR := "30"
+					fadeBarWindowM := "30"
+					fadeBarWindowHatchStyle := "8"
+					fadeBar := "7zOnly"
+					fadeProgressDuration := "0"
+					fadeBarBack := "true"
+					fadeBarBackColor := "FF555555"
+					fadeBarH := "30"
+					fadeBarR := "10"
+					fadeBarColor := "DD00BFFF"
+					fadeBarHatchStyle := "8"
+					fadeBarPercentageText := "true"
+					fadeBarInfoText := "true"
+					fadeBarXOffset := "0"
+					fadeBarYOffset := "150"
+					fadeRomInfoDescription := "filtered text"
+					fadeRomInfoSystemName := "image"
+					fadeRomInfoYear := "text with label"
+					fadeRomInfoDeveloper := "disabled"
+					fadeRomInfoPublisher := "disabled"
+					fadeRomInfoGenre := "disabled"
+					fadeRomInfoRating := "image"
+					fadeRomInfoOrder := "Description|SystemName|Year|Developer|Genre|Rating|Publisher"
+					fadeRomInfoTextPlacement := "User Defined"
+					fadeRomInfoTextMargin := "7"
+					fadeRomInfoText1Options := "w1600|787 h90 x165 y870|1575 cFFE1E1E1 r4 s90 Left Regular"
+					fadeRomInfoText2Options := "w400 x8 y15 cFF555555 r4 s60 Bold"
+					fadeRomInfoText3Options := "w310 x165 y960|1665 cFFE1E1E1 r4 s66 Left Regular"
+					fadeRomInfoText4Options := "w1305|492 h66 x460 y960|1665 cFFE1E1E1 r4 s66 Left Regular"
+					fadeRomInfoText5Options := "cFF555555 r4 s42 Bold"
+					fadeRomInfoText6Options := "h135 x15 y885|1590 cFFCFCFCA r4 s120 Regular"
+					fadeRomInfoText7Options := "h135 x15 y885|1590 cFFCFCFCA r4 s120 Regular"
+					fadeStats_Number_of_Times_Played := "text with label"
+					fadeStats_Last_Time_Played := "text with label"
+					fadeStats_Average_Time_Played := "text with label"
+					fadeStats_Total_Time_Played := "text with label"
+					fadeStats_System_Total_Played_Time := "text with label"
+					fadeStats_Total_Global_Played_Time := "text with label"
+					fadeStatsInfoOrder := "Number_of_Times_Played|Last_Time_Played|Average_Time_Played|Total_Time_Played|System_Total_Played_Time|Total_Global_Played_Time"
+					fadeStatsInfoTextPlacement := "topRight"
+					fadeStatsInfoTextMargin := "7"
+					fadeStatsInfoText1Options := "cFFB4B4B4 r4 s22 Bold"
+					fadeStatsInfoText2Options := "cFFB4B4B4 r4 s22 Bold"
+					fadeStatsInfoText3Options := "cFFB4B4B4 r4 s22 Bold"
+					fadeStatsInfoText4Options := "cFFB4B4B4 r4 s22 Bold"
+					fadeStatsInfoText5Options := "cFFB4B4B4 r4 s22 Bold"
+					fadeStatsInfoText6Options := "cFFB4B4B4 r4 s22 Bold"
+					fadeText1X := "0"
+					fadeText1Y := "0"
+					fadeText1Options := "cFFB4B4B4 r4 s30 Right Bold"
+					fadeText1 := "Loading Game"
+					fadeText2X := "0"
+					fadeText2Y := "0"
+					fadeText2Options := "cFFB4B4B4 r4 s30 Right Bold"
+					fadeText2 := "Extraction Complete, Ready"
+					fadeText3 := "Loading Game"
+					fadeText4 := "Loading Complete"
+					fadeFont := "Bebas Neue"
+					fadeSystemAndRomLayersOnly := "false"
+					fadeExtractionTime := "disabled"
+					fadeExtractionTimeTextX := "0"
+					fadeExtractionTimeTextY := "0"
+					fadeExtractionTimeTextOptions := "cFF555555 r4 s20 Bold"
+					fadeInterruptKey := ""
+					detectFadeErrorEnabled := "true"
+					fadeImgPath := "C:\GoodOld Hype\RocketLauncher\Media\Fade"
+					RLDataPath := "C:\GoodOld Hype\RocketLauncher\Data"
+					RLMediaPath := "C:\GoodOld Hype\RocketLauncher\Media"
+					RLErrSoundPath := "C:\GoodOld Hype\RocketLauncher\Media\Sounds\Error"
+					modulesPath := "C:\GoodOld Hype\RocketLauncher\Modules"
+					moduleFullName := "C:\GoodOld Hype\RocketLauncher\Modules\Fusion\Fusion.ahk"
+					moduleName := "Fusion"
+					modulePath := "C:\GoodOld Hype\RocketLauncher\Modules\Fusion"
+					moduleExtension := "ahk"
+					moduleExtensionsPath := "C:\GoodOld Hype\RocketLauncher\Module Extensions"
+					libPath := "C:\GoodOld Hype\RocketLauncher\Lib"
+					sevenZEnabled := "false"
+					sevenZPath := "C:\GoodOld Hype\RocketLauncher\Module Extensions\7z.exe"
+					sevenZDllPath := "C:\GoodOld Hype\RocketLauncher\Module Extensions\7z.dll"
+					sevenZExtractPath := "C:\GoodOld Hype\RocketLauncher\tmp"
+					sevenZExtractPathOrig := ""
+					sevenZAttachSystemName := "false"
+					sevenZDelTemp := "true"
+					sevenZFormats := ".zip|.rar|.7z|.lha|.lzh|.gzip|.tar"
+					sevenZFormatsNoP := "zip|rar|7z|lha|lzh|gzip|tar"
+					sevenZFormatsRegEx := "\.zip|\.rar|\.7z|\.lha|\.lzh|\.gzip|\.tar"
+					sevenZGamesToKeep := ""
+					sevenZDeletePerSystem := "false"
+					sevenZExtensions := "zip|rar|7z|lha|lzh|gzip|tar"
+					7zExtractPath := "C:\GoodOld Hype\RocketLauncher\tmp"
+					mgEnabled := "false"
+					mgKey := "~NumpadSub"
+					mgBackgroundColor := "FF000000"
+					mgSidePadding := "0.2"
+					mgWidthBaseRes := "1920"
+					mgHeightBaseRes := "1080"
+					mgYOffset := "500|800"
+					mgFont := "Arial"
+					mgText1Options := "x10p y250|500 w80p Center cBBFFFFFF r4 s100 BoldItalic"
+					mgText1Text := "Please select a game"
+					mgText2Options := "w96p cFFFFFFFF r4 s50 Center BoldItalic"
+					mgText2Offset := "100"
+					mgUseSound := "true"
+					mgSoundfreq := "300"
+					mgExitEffect := "none"
+					mgSelectedEffect := "rotate"
+					mgUseGameArt := "false"
+					mgCandidate := ""
+					mgValidTypes := "\(Disc|\(Disk|\(Cart|\(Tape|\(Cassette|\(Part|\(Side"
+					mgOnLaunch := "false"
+					pauseEnabled := "false"
+					pauseKey := "~NumpadAdd"
+					pauseBackToMenuBarKey := "X"
+					pauseZoomInKey := "C"
+					pauseZoomOutKey := "V"
+					pauseScreenshotKey := "~PrintScreen"
+					pauseHiToTextPath := "C:\GoodOld Hype\RocketLauncher\Module Extensions\HiToText.exe"
+					pauseSaveStateKeyCodes := ""
+					pauseLoadStateKeyCodes := ""
+					keyboardEncoder := ""
+					keyboardEncoderEnabled := "false"
+					keymapperEnabled := "false"
+					keymapperAHKMethod := "false"
+					keymapper := "xpadder"
+					xpadderFullPath := "C:\GoodOld Hype\Utilities\Xpadder\xpadder.exe"
+					joyToKeyFullPath := "C:\GoodOld Hype\Utilities\JoyToKey\JoyToKey.exe"
+					profilePath := "C:\GoodOld Hype\RocketLauncher\Profiles"
+					keymapperProfilePath := "C:\GoodOld Hype\RocketLauncher\Profiles\xpadder"
+					keymapperFrontEndProfileName := "RocketLauncherUI"
+					keymapperFrontEndProfile := "false"
+					keymapperRocketLauncherProfileEnabled := "false"
+					joyIDsEnabled := "false"
+					joyIDsPreferredControllersGlobal := ""
+					joyIDsPreferredControllersSystem := "use_global"
+					joyIDsPreferredControllersOnExit := ""
+					CustomJoyNamesEnabled := "false"
+					CustomJoyNames := ""
+					rotateMethod := "false"
+					FEProfile := "C:\GoodOld Hype\RocketLauncher\Profiles\xpadder\RocketLauncherUI"
+					defaultProfile := "C:\GoodOld Hype\RocketLauncher\Profiles\xpadder\_Default"
+					systemProfile := "C:\GoodOld Hype\RocketLauncher\Profiles\xpadder\Sega 32x"
+					xPadderSystemProfile := "C:\GoodOld Hype\RocketLauncher\Profiles\xpadder\Sega 32x\_Default"
+					emuProfile := "C:\GoodOld Hype\RocketLauncher\Profiles\xpadder\Sega 32x\Fusion"
+					romProfile := "C:\GoodOld Hype\RocketLauncher\Profiles\xpadder\Sega 32x\Shadow Squadron ~ Stellar Assault"
+					RocketLauncherProfile := "C:\GoodOld Hype\RocketLauncher\Profiles\xpadder\RocketLauncher"
+					blankProfile := "C:\GoodOld Hype\RocketLauncher\Profiles\xpadder\_Default\blank"
+					ahkFEProfile := "C:\GoodOld Hype\RocketLauncher\Profiles\AHK\RocketLauncherUI"
+					ahkDefaultProfile := "C:\GoodOld Hype\RocketLauncher\Profiles\AHK\_Default"
+					ahkSystemProfile := "C:\GoodOld Hype\RocketLauncher\Profiles\AHK\Sega 32x"
+					ahkEmuProfile := "C:\GoodOld Hype\RocketLauncher\Profiles\AHK\Sega 32x\Fusion"
+					ahkRomProfile := "C:\GoodOld Hype\RocketLauncher\Profiles\AHK\Sega 32x\Shadow Squadron ~ Stellar Assault"
+					ahkRocketLauncherProfile := "C:\GoodOld Hype\RocketLauncher\Profiles\AHK\RocketLauncher"
+					bezelEnabled := "false"
+					bezelICEnabled := "false"
+					shaderName := "false"
+					shaderColor := ""
+					shaderTransparency := ""
+					statisticsEnabled := "true"
+					pressDuration := "-1"
+					emuVolume := "1"
+					dxwndIni := "C:\GoodOld Hype\RocketLauncher\Module Extensions\dxwnd\dxwnd.ini"
+					dxwndFullPath := "C:\GoodOld Hype\RocketLauncher\Module Extensions\dxwnd\dxwnd.exe"
+					qResFullPath := "C:\GoodOld Hype\RocketLauncher\Module Extensions\QRes.exe"
+					mon1O := ""
+					pacDrivedllFile := "C:\GoodOld Hype\RocketLauncher\Module Extensions\PacDrive32.dll"
+					userFadeAnimIniFile := "C:\GoodOld Hype\RocketLauncher\Lib\User Fade Animations.ini"
+					testFile := ""
+					testDuration := ""
+					initialErrorMode := "0"
+
+08:57:50:062 | RL |      INFO  | +0     | BuildScript - Loaded XHotkey Init.ahk scripts
+08:57:50:062 | RL |      INFO  | +0     | BuildScript - Loaded Statistics Init.ahk scripts
+08:57:50:062 | RL |      INFO  | +0     | BuildScript - Validating module
+08:57:50:070 | RL |      INFO  | +16    | BuildScript - Validation complete
+08:57:50:070 | RL |      INFO  | +0     | BuildScript - Module:
+					MEmu := "Fusion"
+					MEmuV := "v3.64"
+					MURL := ["http://www.eidolons-inn.net/tiki-index.php?page=Kega","http://www.carpeludum.com/kega-fusion/"]
+					MAuthor := ["djvj","bleasby"]
+					MVersion := "2.1.4"
+					MCRC := "9403178D"
+					iCRC := "C6C5F2F5"
+					MID := "635038268893895568"
+					MSystem := ["Othello Multivision","Samsung Gam Boy","Sega 32X","Sega CD","Sega Game Gear","Sega Genesis","Sega Master System","Sega Mega Drive","Sega Mega-CD","Sega Pico","Sega SC-3000","Sega SG-1000"]
+					;----------------------------------------------------------------------------
+					; Notes:
+					; Don't forget to setup your bios or you might just get a black screen.
+					; Set your fullscreen resolution by going to Video->Full Screen Resolution
+					; Fusion only supports 4 different windowed resolutions. If you don't use fullscreen, set the one you want by going to Video->Window Size
+					; Esc is Fusion's default key to go Fullscreen/Windowed mode. This cannot be changed, but this module will still close if you use Esc to exit. You may see the emu leave fullscreen first though.
+					; Esc can also cause Fusion to change its fullscreen mode on exit, causing it to lockup for 5-10 seconds. The only fix for this is to not use Esc as your exit key.
+					; For Sega CD, make sure your cues are correctly pointing to all the tracks or else you will not get sound. Also turn off auto-play for CDs
+					;
+					; Sega CD:
+					; Configure your Sega CD bios first by going to Options -> Set Config -> Sega CD
+					; Set the scsi drive you want to use manually by going to Options -> CD Drive and seleting the one that corresponds to your scsi drive in DT. A dt drive is not supported by the emu, it must be scsi.
+					;
+					; Defining per-game controller types:
+					; In the module ini, set Controller_Reassigning_Enabled to true
+					; Default_P1_Controller and Default_P2_Controller should be set to the controller type you normally use for games not listed in the ini
+					; Make a new ini section with the name of your rom in your database, for example [Super Scope 6 (USA)]
+					; Under this section you can have 2 keys, P1_Controller and P2_Controller
+					; For P1_Controller - 0=None, 1=Gamepad, 2=Multitap, 3=Mouse, 4=Serial USART
+					; For P2_Controller - 0=None, 1=Gamepad, 2=Multitap, 3=Mouse, 4=Super Scope, 5=Justifier, 6=Dual Justifiers, 7=Serial USART
+					;
+					; Some games will not work if you have Teamplayer or 4way play active all the time, so you can set the MultiTapType for those problematic games in the module settings for each of these games.
+					;
+					; Sega Pico:
+					; Fusion has very limited support for Sega Pico since it doesn't support the storyware overlays. This module offers support to add the storyware overlays by displaying the images 
+					; on top of the emulator and having some controls to switch pages.
+					; This isn't perfect and it's very easy to get the page currently viewed in Fusion to get out of sync with the one visible on-screen.
+					; Overlays should be placed in your emulator folder in a sub-folder named \Overlays\%RomName%
+					; Suggested name for each page is: "Overlay x - %RomName%.png" where x is the number of the storyware book page
+					; You should map the Previous and Next Page commands to the ones you are using in Fusion, but make sure you only press them when Fusion is in the Storyware and not in the trackpad
+					; Otherwise everything will go out of sync since the module cannot detect if Storyware mode is active or not so it will always change page whereas Fusion won't
+					;
+					; Mouse is required Pico, along with the following controls (using a Genesis Gamepad): START switches between StoryWare and Trackpad, B is the pico red button, A and C turn pages, and U/D/L/R are, well, U/D/L/R. 
+					;
+					; Windows 8 and 8.1 users:
+					; You may experience an issue with Fusion never getting higher than 33.5fps. Use Ctrl+F to bring up the FPS counter in Fusion to check if you are affected. This is caused by some compatibility changes Microsoft made for DirectDraw applications. There are two ways of fixing this issue:
+					; 1) Apply a compatibility patch for the Fusion executable using the Microsoft Application Compatibility Toolkit
+					; 2) Copy a prepatched ddraw.dll into the Fusion directory.
+					; Using the Microsoft Application Compatibility Toolkit is a cleaner fix but takes a few minutes to go through the steps to apply. Using the prepatched ddraw.dll file is quick and simple but may break the right-click menus when in full-screen mode, requiring you to make all configuration changes with the emulator windowed.
+					; Both methods are fully detailed with downloads, instructions and screenshots at http://www.blitzbasic.com/Community/post.php?topic=99477&post=1202630
+					;----------------------------------------------------------------------------
+					StartModule()
+					If StringUtils.Contains(systemName,"Pico")
+						StorywaveOverlayGUI()
+					BezelGUI()
+					FadeInStart()
+					
+					primaryExe := new Emulator(emuPath . "\" . executable)			; instantiate emulator executable object
+					emuPrimaryWindow := new Window(new WindowTitle("Fusion","KegaClass"))	; instantiate primary emulator window object
+					emuLoadRamCartWindow := new Window(new WindowTitle("Load RAM Cart","#32770"))
+					emuCreateRamCartWindow := new Window(new WindowTitle("Create RAM Cart","#32770"))
+					emuSelectRamCartWindow := new Window(new WindowTitle("Select RAM Cart Size","#32770"))
+					
+					; The object controls how the module reacts to different systems. Fusion can play a lot of systems, but changes itself slightly so this module has to adapt 
+					mType := Object("Othello Multivision","sms","Samsung Gam Boy","sms","Sega 32X","32X","Sega CD","scd","Sega Mega-CD","scd","Sega Game Gear","gg","Sega Genesis","gen","Sega Mega Drive","gen","Sega Master System","sms","Sega Pico","gen","Sega SC-3000","sms","Sega SG-1000","sms")
+					ident := mType[systemName]	; search 1st array for the systemName identifier mednafen uses
+					If !ident
+						ScriptError("Your systemName is: " . systemName . "`nIt is not one of the known supported systems for this Fusion module: " . moduleName)
+					
+					fullscreen := moduleIni.Read("Settings", "Fullscreen","true",,1)
+					forceFullScreen32 := moduleIni.Read("Settings", "ForceFullScreen32","true",,1)
+					hideTitleBar := moduleIni.Read("Settings", "hideTitleBar","true",,1)	; Removes the border, titlebar, menubar, and centers the emu on your screen. Only need this if fullscreen is false
+					useRamCarts := moduleIni.Read("Settings", "UseRamCarts","true",,1)
+					controllerReassigningEnabled := moduleIni.Read("Settings", "Controller_Reassigning_Enabled","false",,1)
+					multiTapType := moduleIni.Read(romName . "|Settings", "MultiTapType",0,,1)
+					perfectSync := moduleIni.Read(romName . "|Settings", "PerfectSync","false",,1)
+					DTWaitTime := moduleIni.Read(systemName, "DTWaitTime","0",,1)
+					fluxAudioCD := moduleIni.Read(systemName, "FluxAudioCD",,,1)	; audio CD for use when Flux is ran
+					fluxAudioCD := GetFullName(fluxAudioCD)	; convert relative path to absolute
+					genP1Controller := moduleIni.Read(romName . "|Controllers", "Genesis_P1_Controller",2,,1)
+					genP1bController := moduleIni.Read(romName . "|Controllers", "Genesis_P1b_Controller",2,,1)
+					genP1cController := moduleIni.Read(romName . "|Controllers", "Genesis_P1c_Controller",2,,1)
+					genP1dController := moduleIni.Read(romName . "|Controllers", "Genesis_P1d_Controller",2,,1)
+					genP2Controller := moduleIni.Read(romName . "|Controllers", "Genesis_P2_Controller",2,,1)
+					genP2bController := moduleIni.Read(romName . "|Controllers", "Genesis_P2b_Controller",2,,1)
+					genP2cController := moduleIni.Read(romName . "|Controllers", "Genesis_P2c_Controller",2,,1)
+					genP2dController := moduleIni.Read(romName . "|Controllers", "Genesis_P2d_Controller",2,,1)
+					smsP1Controller := moduleIni.Read(romName . "|Controllers", "SMS_P1_Controller",1,,1)
+					smsP2Controller := moduleIni.Read(romName . "|Controllers", "SMS_P2_Controller",1,,1)
+					genP1Use := moduleIni.Read(romName . "|Controllers", "Genesis_P1_Use",1,,1)
+					genP1bUse := moduleIni.Read(romName . "|Controllers", "Genesis_P1b_Use",1,,1)
+					genP1cUse := moduleIni.Read(romName . "|Controllers", "Genesis_P1c_Use",1,,1)
+					genP1dUse := moduleIni.Read(romName . "|Controllers", "Genesis_P1d_Use",1,,1)
+					genP2Use := moduleIni.Read(romName . "|Controllers", "Genesis_P2_Use",1,,1)
+					genP2bUse := moduleIni.Read(romName . "|Controllers", "Genesis_P2b_Use",1,,1)
+					genP2cUse := moduleIni.Read(romName . "|Controllers", "Genesis_P2c_Use",1,,1)
+					genP2dUse := moduleIni.Read(romName . "|Controllers", "Genesis_P2d_Use",1,,1)
+					smsP1Use := moduleIni.Read(romName . "|Controllers", "SMS_P1_Use",1,,1)
+					smsP2Use := moduleIni.Read(romName . "|Controllers", "SMS_P2_Use",1,,1)
+					
+					StorywaveOverlayPath := moduleIni.Read("Settings", "Storywave_Overlay_Path",emuPath . "\Overlays\" . dbName,,1)
+					toggleStorywaveOverlayKey := moduleIni.Read("Settings", "Toggle_Storywave_Overlay_Visibility_Key","X",,1) ; Show Overlay
+					downStorywaveOverlayKey := moduleIni.Read("Settings", "Storywave_Overlay_Page_Down_Key","Z",,1)  ; Previous Page
+					upStorywaveOverlayKey := moduleIni.Read("Settings", "Storywave_Overlay_Page_Up_Key","C",,1)   ; Next Page
+					resetStorywaveOverlayKey := moduleIni.Read("Settings", "Storywave_Overlay_Reset_Page_Key","R",,1)   ; Reset Storywave to Initial Page
+					StorywaveOverlayTransparency := moduleIni.Read("Settings", "Storywave_Overlay_Transparency","50",,1) ; Overlay Transparency
+					
+					BezelStart()
+					
+					fusionFile := new PropertiesFile(emuPath . "\fusion.ini")
+					If fusionFile.Exist() {
+						fusionFile.LoadProperties()	; load the config into memory
+						currentFullScreen := fusionFile.ReadProperty("FullScreen")	; read current fullscreen state
+						currentForceFullScreen32 := fusionFile.ReadProperty("forceFullScreen32")	; read current ForceFullScreen32 state
+						currentPerfectSync := fusionFile.ReadProperty("PerfectSync")	; read current PerfectSync state
+					} Else
+						RLLog.Warning("Module - Fusion.ini was not found at " . fusionFile.FileFullPath . ". Emulator was probably never ran before.")
+					
+					hideEmuObj := Object(emuLoadRamCartWindow,0,emuCreateRamCartWindow,0,emuSelectRamCartWindow,0,emuPrimaryWindow,1)
+					7z(romPath, romName, romExtension, sevenZExtractPath)
+					
+					If StringUtils.Contains(romExtension,"\.7z|\.rar")
+						ScriptError(MEmu . " only supports uncompressed or zip compressed roms. Please enable 7z support in RocketLauncherUI to use this module/emu for this extension: """ . romExtension . """")
+					
+					If (Fullscreen != "true" And currentFullScreen = "1")
+						fusionFile.WriteProperty("FullScreen",0)
+					Else If (Fullscreen = "true" And currentFullScreen = "0")
+						fusionFile.WriteProperty("FullScreen",1)
+					
+					If (forceFullScreen32 != "true" And currentForceFullScreen32 = "1")
+						fusionFile.WriteProperty("ForceFullScreen32",0)
+					Else If (forceFullScreen32 = "true" And currentForceFullScreen32 = "0")
+						fusionFile.WriteProperty("ForceFullScreen32",1)
+					
+					If (perfectSync != "true" And currentPerfectSync = "1")
+						fusionFile.WriteProperty("PerfectSync",0)
+					Else If (perfectSync = "true" And currentPerfectSync = "0")
+						fusionFile.WriteProperty("PerfectSync",1)
+					
+					
+					hideEmu := If Fullscreen = "true" ? "Hide" : ""
+					fullscreen := If Fullscreen = "true" ? " -fullscreen" : ""
+					
+					If bezelPath ; Setting windowed mode resolution
+						fusionFile.WriteProperty("GameGearZoom",1) ; disabling emulator default bezel
+					
+					 ; Allows you to set on a per-rom basis the controller type plugged into controller ports 1 and 2
+					If (controllerReassigningEnabled = "true")
+					{	RLLog.Info("Module - Started reassigning Fusion's ini controls")
+						fusionFile.WriteProperty("MultiTapType", multiTapType)	; sets MultiTap
+						fusionFile.WriteProperty("Joystick1Type", genP1Controller)	; sets controls for P1
+						fusionFile.WriteProperty("Joystick1bType", genP1bController)	; sets controls for P1b
+						fusionFile.WriteProperty("Joystick1cType", genP1cController)	; sets controls for P1c
+						fusionFile.WriteProperty("Joystick1dType", genP1dController)	; sets controls for P1d
+						fusionFile.WriteProperty("Joystick2Type", genP2Controller)	; sets controls for P2
+						fusionFile.WriteProperty("Joystick2bType", genP2bController)	; sets controls for P2b
+						fusionFile.WriteProperty("Joystick2cType", genP2cController)	; sets controls for P2c
+						fusionFile.WriteProperty("Joystick2dType", genP2dController)	; sets controls for P2d
+						fusionFile.WriteProperty("Joystick1MSType", smsP1Controller)	; sets controls for sms P1
+						fusionFile.WriteProperty("Joystick2MSType", smsP2Controller)	; sets controls for sms P2
+						fusionFile.WriteProperty("Joystick1Using", genP1Use)	; sets controls for P1
+						fusionFile.WriteProperty("Joystick1bUsing", genP1bUse)	; sets controls for P1b
+						fusionFile.WriteProperty("Joystick1cUsing", genP1cUse)	; sets controls for P1c
+						fusionFile.WriteProperty("Joystick1dUsing", genP1dUse)	; sets controls for P1d
+						fusionFile.WriteProperty("Joystick2Using", genP2Use)	; sets controls for P2
+						fusionFile.WriteProperty("Joystick2bUsing", genP2bUse)	; sets controls for P2b
+						fusionFile.WriteProperty("Joystick2cUsing", genP2cUse)	; sets controls for P2c
+						fusionFile.WriteProperty("Joystick2dUsing", genP2dUse)	; sets controls for P2d
+						fusionFile.WriteProperty("Joystick1MSUsing", smsP1Use)	; sets controls for sms P1
+						fusionFile.WriteProperty("Joystick2MSUsing", smsP2Use)	; sets controls for sms P2
+						RLLog.Info("Module - Finished reassigning Fusion's ini controls")
+					}
+					
+					fusionFile.SaveProperties()	; save changes to Fusion.ini
+					
+					fluxRom := StringUtils.Contains(romName,"flux")	; test if this game is Flux, a special case game that requires an Audio CD to be mounted
+					If fluxRom {
+						RLLog.Info("Module - Mounting the Audio CD because """ . romName . """ requires one to function.")
+						ident := "gen"	; change ident to gen because Flux has to be mounted as a Genesis rom
+						VirtualDrive("mount", fluxAudioCD)	; mount the Audio CD the user has set in the module settings
+					}
+					
+					scdExtension := StringUtils.Contains(romExtension, "\.ccd|\.cue|\.bin|\.iso")	; the sega cd extensions supported by fusion
+					
+					HideAppStart(hideEmuObj,hideEmu)
+					
+					If (ident = "scd" && vdEnabled = "true" && scdExtension) {
+						If (vdUseSCSI = "false")
+							RLLog.Warning("Module - Daemon Tools drive type is set to ""dt"" but only ""scsi"" is supported for Fusion. Forcing scsi drive.")
+						VirtualDrive("mount", romPath . "\" . romName . romExtension, (If vdUseSCSI = "false" ? "scsi" : ""))
+						TimerUtils.Sleep(DTWaitTime)
+						PrimaryExe.Run(" -auto -" . ident . " " . fullscreen, hideEmu)
+					} Else {
+						If (ident = "scd" && vdEnabled = "true" && !scdExtension)
+							RLLog.Warning("Module - " . romExtension . " is not a supported cd image extension for Fusion. Launching Fusion without DT support.")
+						PrimaryExe.Run(" -auto -" . ident . fullscreen . " """ . romPath . "\" . romName . romExtension . """", hideEmu)
+					}
+					
+					emuPrimaryWindow.Wait()
+					emuPrimaryWindow.WaitActive()
+					
+					If fluxRom
+						emuPrimaryWindow.PostMessage(0x111,40009)		; Runs the Boot Sega-CD command to load the Audio CD that should be mounted in DT already
+					
+					If (ident = "scd" && useRamCarts = "true")	; Sega CD or Mega CD only
+					{	brmPath := ReadProperty(fusionIni,"BRMFiles")		; read BRM path
+						ramCartFile := New File(brmPath . "\" . romName . ".crm")
+						If !ramCartFile.Exist("folder")	; if folder doesn't exist
+							ramCartFile.CreateDir()	; create brmPath if it does not exist
+						; Create New Ram Cart if it doesn't exist already
+						If !ramCartFile.Exist()
+						{	emuPrimaryWindow.PostMessage(0x111,40036)		; Open Create New Ram Cart Window
+							emuSelectRamCartWindow.Wait()
+							emuSelectRamCartWindow.Set("Transparent","On")
+							emuSelectRamCartWindow.CreateControl("Button7")		; instantiate new control for Button7
+							emuSelectRamCartWindow.CreateControl("Button1")		; instantiate new control for Button1
+							emuSelectRamCartWindow.GetControl("Button7").Control("Check")	; check control Button7
+							emuSelectRamCartWindow.GetControl("Button1").Send("{Enter}")	; Send Enter to control Button1
+							emuCreateRamCartWindow.OpenROM(ramCartFile.FileFullPath)
+						}
+						; Now load the Ram Cart
+						emuPrimaryWindow.PostMessage(0x111,40035)		; Open Load Ram Cart Window
+						emuLoadRamCartWindow.OpenROM(ramCartFile.FileFullPath)
+					}
+					
+					emuPrimaryWindow.WaitActive()
+					
+					Loop { ; looping until Fusion is done loading game
+						TimerUtils.Sleep(200)
+						winTitle := emuPrimaryWindow.GetTitle(0)	; do not store
+						winTextSplit := StringUtils.Split(winTitle, A_Space)
+						If (winTextSplit[3] = "-")
+							Break
+						If (A_Index > 75) {
+							RLLog.Error("Module - Timed out detecting that a game was loaded in Fusion. There may be a problem with the emu loading your game." . (If ident = "scd" ? "You need to make sure you select the proper CD drive manually in Fusion first by going to Options -> CD Drive":""))
+							Break
+						}
+					}
+					
+					If (hideTitleBar = "true")
+					{	emuPrimaryWindow.RemoveBorder()
+						emuPrimaryWindow.RemoveTitleBar()
+						emuPrimaryWindow.RemoveMenubar()
+						If (bezelEnabled != "true")
+							emuPrimaryWindow.Center()
+					}
+					
+					BezelDraw()
+					
+					If StringUtils.Contains(systemName,"Pico")
+						StorywaveOverlayLoad()
+					
+					HideAppEnd(hideEmuObj,hideEmu)
+					FadeInExit()
+					
+					If StringUtils.Contains(systemName,"Pico")
+						emuPrimaryWindow.PostMessage(0x111,40183)		; tell Kega Fusion to capture mouse input
+					
+					primaryExe.Process("WaitClose")
+					
+					If (fluxRom || (ident = "scd" && vdEnabled = "true" && scdExtension))
+						VirtualDrive("unmount")
+					
+					7zCleanUp()
+					StorywaveOverlayExit()
+					BezelExit()
+					FadeOutExit()
+					ExitModule()
+					
+					
+					MultiGame:
+						; msgbox % "selectedRom = " . selectedRom . "`nselected game = " . currentButton . "`nmgRomPath = " . mgRomPath . "`nmgRomExt = " . mgRomExt . "`nmgRomName = "  . mgRomName
+						; Unmount the CD from Virtual Drive
+						If (scdExtension && vdEnabled = "true")
+							VirtualDrive("unmount")
+						TimerUtils.Sleep(500)	; Required to prevent your Virtual Drive from bugging
+						; Mount the CD using Virtual Drive
+						If (scdExtension && vdEnabled = "true")
+							VirtualDrive("mount", selectedRom)
+					Return
+					
+					CloseProcess:
+						FadeOutStart()
+						emuPrimaryWindow.Close()
+						; emuPrimaryWindow.PostMessage(0x111,40039)	; Tells Fusion to Power Off
+						; TimerUtils.Sleep(100)						; Giving time for Fusion to unload rom
+						; emuPrimaryWindow.PostMessage(0x111,40005)	; Tells Fusion to exit
+					Return
+					
+					
+					
+					;_______________Storywave Overlay__________________________
+					
+					StorywaveOverlayGUI(){
+						Global
+						If !pToken
+							pToken := Gdip_Startup()
+						Gui, StorywaveOverlay_GUI: +Disabled -Caption +E0x80000 +OwnDialogs +LastFound +ToolWindow +AlwaysOnTop
+						Gui, StorywaveOverlay_GUI: Margin,0,0
+						Gui, StorywaveOverlay_GUI: Show,, StorywaveOverlay_Layer
+						StorywaveOverlay_hwnd := WinExist()
+						StorywaveOverlay_hbm := CreateDIBSection(A_ScreenWidth, A_ScreenHeight)
+						StorywaveOverlay_hdc := CreateCompatibleDC()
+						StorywaveOverlay_obm := SelectObject(StorywaveOverlay_hdc, StorywaveOverlay_hbm)
+						StorywaveOverlay_G := Gdip_GraphicsFromhdc(StorywaveOverlay_hdc)
+						Gdip_SetSmoothingMode(StorywaveOverlay_G, 4)
+						Return
+					}
+					
+					StorywaveOverlayLoad(){
+						Global
+						StorywaveOverlayArray := []
+						Loop, % StorywaveOverlayPath . "\*.png"
+							StorywaveOverlayArray.Insert(A_LoopFileFullPath)
+						if (StorywaveOverlayArray.MaxIndex() > 0)
+						{
+							WinGet emulatorID, ID, A
+							WinGetPos, emuX, emuY, emuW, emuH, ahk_id %emulatorID%
+							currentStorywaveOverlay := 1
+							StorywaveOverlayDraw := false
+							XHotKeywrapper(toggleStorywaveOverlayKey,"toggleStorywaveOverlay","ON") 
+							XHotKeywrapper(upStorywaveOverlayKey,"upStorywaveOverlay","ON")
+							XHotKeywrapper(downStorywaveOverlayKey,"downStorywaveOverlay","ON")
+							XHotKeywrapper(resetStorywaveOverlayKey,"resetStorywaveOverlay","ON")
+						}
+						Return
+					}
+					
+					StorywaveOverlayExit(){
+						Global
+						SelectObject(StorywaveOverlay_hdc,StorywaveOverlay_obm)
+						DeleteObject(StorywaveOverlay_hbm)
+						DeleteDC(StorywaveOverlay_hdc)
+						Gdip_DeleteGraphics(StorywaveOverlay_G)
+						Gui, StorywaveOverlay_GUI: Destroy
+						Gdip_DisposeImage(StorywaveOverlayBitmap)
+						Return
+					}
+					
+					StorywaveOverlayHide(){
+						Global
+						Gdip_GraphicsClear(StorywaveOverlay_G)
+						UpdateLayeredWindow(StorywaveOverlay_hwnd, StorywaveOverlay_hdc,emuX,emuY, emuW, emuH)
+						StorywaveOverlayDraw := false
+						Return
+					}
+					
+					StorywaveOverlayShow(){
+						Global
+						Tooltip, "Current Page " %currentStorywaveOverlay%
+						settimer,EndofCurrentPageToolTipDelay, -2000  
+						Gdip_GraphicsClear(StorywaveOverlay_G)
+						StorywaveOverlayBitmap := Gdip_CreateBitmapFromFile(StorywaveOverlayArray[currentStorywaveOverlay])
+						Gdip_DrawImage(StorywaveOverlay_G, StorywaveOverlayBitmap, 0, 0,emuW,emuH)
+						UpdateLayeredWindow(StorywaveOverlay_hwnd, StorywaveOverlay_hdc,emuX,emuY, emuW, emuH,StorywaveOverlayTransparency)
+						StorywaveOverlayDraw := true
+						Return
+					}
+					
+					EndofCurrentPageToolTipDelay:
+						ToolTip
+					Return
+					
+					toggleStorywaveOverlay:
+						If StorywaveOverlayDraw
+							StorywaveOverlayHide()
+						Else
+							StorywaveOverlayShow()
+					Return
+					
+					upStorywaveOverlay:
+						currentStorywaveOverlay++
+						If (currentStorywaveOverlay > StorywaveOverlayArray.MaxIndex())
+							currentStorywaveOverlay--
+						StorywaveOverlayShow()
+					Return
+					
+					downStorywaveOverlay:
+						currentStorywaveOverlay--
+						If (currentStorywaveOverlay < 1)	; This variable cannot be lower than 1 (first page)
+							currentStorywaveOverlay := 1
+						StorywaveOverlayShow()
+					Return
+					
+					resetStorywaveOverlay:
+						currentStorywaveOverlay := 1
+						StorywaveOverlayShow()
+					Return
+
+08:57:50:082 | RL |      INFO  | +0     | BuildScript - Loaded Multi-Player scripts
+08:57:50:082 | RL |      INFO  | +0     | BuildScript - Loaded Statistics.ahk script
+08:57:50:082 | RL |      INFO  | +0     | BuildScript - "C:\GoodOld Hype\RocketLauncher\Lib\User Functions\Global.ahk" not found
+08:57:50:082 | RL |      INFO  | +0     | BuildScript - "C:\GoodOld Hype\RocketLauncher\Lib\User Functions\Sega 32x.ahk" not found
+08:57:50:082 | RL |      INFO  | +0     | BuildScript - "C:\GoodOld Hype\RocketLauncher\Lib\User Functions\Emulators\Fusion.ahk" not found
+08:57:50:082 | RL |      INFO  | +0     | BuildScript - "C:\GoodOld Hype\RocketLauncher\Lib\User Functions\Sega 32x\Emulators\Fusion.ahk" not found
+08:57:50:082 | RL |      INFO  | +0     | BuildScript - "C:\GoodOld Hype\RocketLauncher\Lib\User Functions\Sega 32x\Shadow Squadron ~ Stellar Assault.ahk" not found
+08:57:50:082 | RL |      INFO  | +0     | BuildScript - Finished injecting functions into module
+08:57:50:082 | RL |      INFO  | +0     | Main - Module is built
+08:57:50:082 | RL |      INFO  | +0     | CheckFile - Checking if C:\GoodOld Hype\RocketLauncher\AutoHotkey.dll exists
+08:57:50:086 | RL |      INFO  | +16    | Main - Running module
+08:57:50:438 | MD |      INFO  | +N/A   | Module initialized
+08:57:50:440 | MD |      INFO  | +0     | StartModule - Started
+08:57:50:440 | MD |      INFO  | +0     | StartModule - MEmu: Fusion
+					MEmuV: v3.64
+					MURL: http://www.eidolons-inn.net/tiki-index.php?page=Kega|http://www.carpeludum.com/kega-fusion/
+					MAuthor: djvj|bleasby
+					MVersion: 2.1.4
+					MCRC: 9403178D
+					iCRC: C6C5F2F5
+					MID: 635038268893895568
+					MSystem: Othello Multivision|Samsung Gam Boy|Sega 32X|Sega CD|Sega Game Gear|Sega Genesis|Sega Master System|Sega Mega Drive|Sega Mega-CD|Sega Pico|Sega SC-3000|Sega SG-1000
+08:57:50:440 | MD |      INFO  | +0     | StartModule - You have a supported System Name for this module: "Sega 32x"
+08:57:50:440 | MD |      INFO  | +0     | LocaleUtils.i18n - Started
+08:57:50:441 | MD |      INFO  | +0     | LocaleUtils.i18n - Ended, using "Abrir" for "dialog.open"
+08:57:50:441 | MD |      INFO  | +0     | LocaleUtils.i18n - Started
+08:57:50:441 | MD |      INFO  | +0     | LocaleUtils.i18n - Ended, using "começo" for "dialog.start"
+08:57:50:441 | MD |      INFO  | +0     | PluginInit - Started
+08:57:50:441 | MD |      INFO  | +0     | CheckFile - Checking if C:\GoodOld Hype\Databases\Sega 32x\Sega 32x.xml exists
+08:57:50:442 | MD |      INFO  | +0     | PluginInit - Ended
+08:57:50:473 | MD |      INFO  | +32    | StartModule - Ended
+08:57:50:473 | MD |      INFO  | +0     | RIniFile.Read - Module - Fullscreen: true (DEFAULT)
+08:57:50:473 | MD |      INFO  | +0     | RIniFile.Read - Module - ForceFullScreen32: true (DEFAULT)
+08:57:50:473 | MD |      INFO  | +0     | RIniFile.Read - Module - hideTitleBar: true (DEFAULT)
+08:57:50:473 | MD |      INFO  | +0     | RIniFile.Read - Module - UseRamCarts: true (DEFAULT)
+08:57:50:473 | MD |      INFO  | +0     | RIniFile.Read - Module - Controller_Reassigning_Enabled: false (DEFAULT)
+08:57:50:473 | MD |      INFO  | +0     | RIniFile.Read - Module - MultiTapType: 0 (DEFAULT)
+08:57:50:473 | MD |      INFO  | +0     | RIniFile.Read - Module - PerfectSync: false (DEFAULT)
+08:57:50:473 | MD |      INFO  | +0     | RIniFile.Read - Module - DTWaitTime: 0 (DEFAULT)
+08:57:50:474 | MD |      INFO  | +0     | RIniFile.Read - Module - FluxAudioCD: (NO VALUE)
+08:57:50:474 | MD |      INFO  | +0     | RIniFile.Read - Module - Genesis_P1_Controller: 2 (DEFAULT)
+08:57:50:474 | MD |      INFO  | +0     | RIniFile.Read - Module - Genesis_P1b_Controller: 2 (DEFAULT)
+08:57:50:474 | MD |      INFO  | +0     | RIniFile.Read - Module - Genesis_P1c_Controller: 2 (DEFAULT)
+08:57:50:474 | MD |      INFO  | +0     | RIniFile.Read - Module - Genesis_P1d_Controller: 2 (DEFAULT)
+08:57:50:474 | MD |      INFO  | +0     | RIniFile.Read - Module - Genesis_P2_Controller: 2 (DEFAULT)
+08:57:50:474 | MD |      INFO  | +0     | RIniFile.Read - Module - Genesis_P2b_Controller: 2 (DEFAULT)
+08:57:50:474 | MD |      INFO  | +0     | RIniFile.Read - Module - Genesis_P2c_Controller: 2 (DEFAULT)
+08:57:50:474 | MD |      INFO  | +0     | RIniFile.Read - Module - Genesis_P2d_Controller: 2 (DEFAULT)
+08:57:50:474 | MD |      INFO  | +0     | RIniFile.Read - Module - SMS_P1_Controller: 1 (DEFAULT)
+08:57:50:474 | MD |      INFO  | +0     | RIniFile.Read - Module - SMS_P2_Controller: 1 (DEFAULT)
+08:57:50:474 | MD |      INFO  | +0     | RIniFile.Read - Module - Genesis_P1_Use: 1 (DEFAULT)
+08:57:50:474 | MD |      INFO  | +0     | RIniFile.Read - Module - Genesis_P1b_Use: 1 (DEFAULT)
+08:57:50:474 | MD |      INFO  | +0     | RIniFile.Read - Module - Genesis_P1c_Use: 1 (DEFAULT)
+08:57:50:474 | MD |      INFO  | +0     | RIniFile.Read - Module - Genesis_P1d_Use: 1 (DEFAULT)
+08:57:50:474 | MD |      INFO  | +0     | RIniFile.Read - Module - Genesis_P2_Use: 1 (DEFAULT)
+08:57:50:474 | MD |      INFO  | +0     | RIniFile.Read - Module - Genesis_P2b_Use: 1 (DEFAULT)
+08:57:50:474 | MD |      INFO  | +0     | RIniFile.Read - Module - Genesis_P2c_Use: 1 (DEFAULT)
+08:57:50:474 | MD |      INFO  | +0     | RIniFile.Read - Module - Genesis_P2d_Use: 1 (DEFAULT)
+08:57:50:474 | MD |      INFO  | +0     | RIniFile.Read - Module - SMS_P1_Use: 1 (DEFAULT)
+08:57:50:474 | MD |      INFO  | +0     | RIniFile.Read - Module - SMS_P2_Use: 1 (DEFAULT)
+08:57:50:474 | MD |      INFO  | +0     | RIniFile.Read - Module - Storywave_Overlay_Path: C:\GoodOld Hype\Emulators\Sega\Overlays\Shadow Squadron ~ Stellar Assault (DEFAULT)
+08:57:50:474 | MD |      INFO  | +0     | RIniFile.Read - Module - Toggle_Storywave_Overlay_Visibility_Key: X (DEFAULT)
+08:57:50:474 | MD |      INFO  | +0     | RIniFile.Read - Module - Storywave_Overlay_Page_Down_Key: Z (DEFAULT)
+08:57:50:504 | MD |      INFO  | +31    | RIniFile.Read - Module - Storywave_Overlay_Page_Up_Key: C (DEFAULT)
+08:57:50:504 | MD |      INFO  | +0     | RIniFile.Read - Module - Storywave_Overlay_Reset_Page_Key: R (DEFAULT)
+08:57:50:504 | MD |      INFO  | +0     | RIniFile.Read - Module - Storywave_Overlay_Transparency: 50 (DEFAULT)
+08:57:50:589 | MD |      INFO  | +94    | HideAppStart - Starting HideAppTimer, scanning for windows defined every 2ms
+08:57:50:589 | MD |      INFO  | +0     | HideAppStart - Ended
+08:57:50:590 | MD |      INFO  | +0     | Process.Run - Running: C:\GoodOld Hype\Emulators\Sega\Fusion.exe  -auto -32X -fullscreen "C:\GoodOld Hype\Databases\Sega 32x\Shadow Squadron ~ Stellar Assault.zip"
+08:57:50:892 | MD |      INFO  | +297   | Window.Wait - Waiting for window "Fusion ahk_class KegaClass"
+08:57:54:675 | MD |      INFO  | +3781  | Window.WaitActive - Waiting for "Fusion ahk_class KegaClass"
+08:57:54:799 | MD |      INFO  | +125   | Window.WaitActive - Waiting for "Fusion ahk_class KegaClass"
+08:57:55:816 | MD |      INFO  | +1015  | HideAppEnd - Stopping HideAppTimer and unhiding flagged windows
+08:57:55:818 | MD |      INFO  | +0     | HideAppEnd - Revealed window: "Fusion ahk_class KegaClass"
+08:57:55:818 | MD |      INFO  | +0     | HideAppEnd - Ended
+08:57:55:818 | MD |      INFO  | +0     | Process.Process - "WaitClose" "Fusion.exe" 
+08:58:37:812 | MD |      INFO  | +42000 | ExitModule - Started
+08:58:37:813 | MD |      INFO  | +0     | UpdateStatistics - Starting Updating Statistics
+08:58:38:067 | MD |      INFO  | +250   | UpdateStatistics - Game section statistics updated.
+08:58:38:085 | MD |      INFO  | +32    | ExitModule - Ended
+End of Module Logs
+08:58:38:101 | RL |      INFO  | +48015 | Main - Module ended, exiting RocketLauncher normally
+08:58:38:101 | RL |      INFO  | +0     | ExitScript - Started
+08:58:38:106 | RL |      INFO  | +0     | ExitScript - Checking what application is currently in focus.
+08:58:38:106 | RL |      INFO  | +0     | ExitScript - Alternância de Tarefas is currently active. Putting focus back on HyperSpin.exe with PID of 15780
+08:58:38:359 | RL |      INFO  | +250   | SystemCursor - Restoring mouse cursor
+08:58:38:384 | RL |      INFO  | +32    | ExitScript - Restored cursor
+08:58:38:384 | RL |      INFO  | +0     | ExitScript - Ended
+[/code]
